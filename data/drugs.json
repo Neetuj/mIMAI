@@ -1,0 +1,774 @@
+[
+	{
+		"name": "Acamprosate",
+		"category": "Other"
+	},
+	{
+		"name": "Acetazolamide",
+		"category": "Other"
+	},
+	{
+		"name": "Acetylcysteine",
+		"category": "Other"
+	},
+	{
+		"name": "Acetylsalicyclic acid (aspirin)",
+		"category": "Other"
+	},
+	{
+		"name": "Aciclovir",
+		"category": "Other"
+	},
+	{
+		"name": "Albendazole",
+		"category": "Other"
+	},
+	{
+		"name": "Amiloride",
+		"category": "Other"
+	},
+	{
+		"name": "Amitriptyline",
+		"category": "Other"
+	},
+	{
+		"name": "Amoxicillin",
+		"category": "Other"
+	},
+	{
+		"name": "Amoxicillin with clavulanic acid",
+		"category": "Other"
+	},
+	{
+		"name": "Amphotericin B (conventional)",
+		"category": "Other"
+	},
+	{
+		"name": "Amphotericin B (liposomal)",
+		"category": "Other"
+	},
+	{
+		"name": "Ampicillin",
+		"category": "Other"
+	},
+	{
+		"name": "Abacavir (ABC)",
+		"category": "Other"
+	},
+	{
+		"name": "Atazanavir + ritonavir (ATV/r)",
+		"category": "Other"
+	},
+	{
+		"name": "Didanosine (ddI)",
+		"category": "Other"
+	},
+	{
+		"name": "Efavirenz (EFV)",
+		"category": "Other"
+	},
+	{
+		"name": "Emtricitabine (FTC)",
+		"category": "Other"
+	},
+	{
+		"name": "Lamivudine (3TC)",
+		"category": "Other"
+	},
+	{
+		"name": "Nevirapine (NVP)",
+		"category": "Other"
+	},
+	{
+		"name": "Lopinavir + ritonavir (LPV/r)",
+		"category": "Other"
+	},
+	{
+		"name": "Saquinavir (SQV)",
+		"category": "Other"
+	},
+	{
+		"name": "Tenofovir (TDF)",
+		"category": "Other"
+	},
+	{
+		"name": "Zidovudine (ZDV AZT)",
+		"category": "Other"
+	},
+	{
+		"name": "Artemether",
+		"category": "Other"
+	},
+	{
+		"name": "Artemether + lumefantrine",
+		"category": "Other"
+	},
+	{
+		"name": "Artesunate",
+		"category": "Other"
+	},
+	{
+		"name": "Artesunate + amodiaquine",
+		"category": "Other"
+	},
+	{
+		"name": "Artesunate + sulfadoxine–pyrimethamine",
+		"category": "Other"
+	},
+	{
+		"name": "Artesunate + mefl oquine",
+		"category": "Other"
+	},
+	{
+		"name": "Artesunate + clindamycin",
+		"category": "Other"
+	},
+	{
+		"name": "Aspirin (see acetylsalicylic acid Atropine)",
+		"category": "Other"
+	},
+	{
+		"name": "Atropine",
+		"category": "Other"
+	},
+	{
+		"name": "Atropine eye drops",
+		"category": "Other"
+	},
+	{
+		"name": "Azithromycin",
+		"category": "Other"
+	},
+	{
+		"name": "Beclometasone inhaler",
+		"category": "Other"
+	},
+	{
+		"name": "Benzathine benzylpenicillin",
+		"category": "Other"
+	},
+	{
+		"name": "Benznidazole",
+		"category": "Other"
+	},
+	{
+		"name": "Benzyl benzoate",
+		"category": "Other"
+	},
+	{
+		"name": "Benzoyl peroxide",
+		"category": "Other"
+	},
+	{
+		"name": "Benzylpenicillin (penicillin G)",
+		"category": "Other"
+	},
+	{
+		"name": "Betametasone",
+		"category": "Other"
+	},
+	{
+		"name": "Biperiden",
+		"category": "Other"
+	},
+	{
+		"name": "Buprenorphine",
+		"category": "Other"
+	},
+	{
+		"name": "Calamine lotion",
+		"category": "Other"
+	},
+	{
+		"name": "Calcium gluconate",
+		"category": "Other"
+	},
+	{
+		"name": "Carbamazepine",
+		"category": "Other"
+	},
+	{
+		"name": "Cefi xime",
+		"category": "Other"
+	},
+	{
+		"name": "Ceftriaxone",
+		"category": "Other"
+	},
+	{
+		"name": "Charcoal activated",
+		"category": "Other"
+	},
+	{
+		"name": "Chloramphenicol",
+		"category": "Other"
+	},
+	{
+		"name": "Chloramphenicol eye drops/ointment",
+		"category": "Other"
+	},
+	{
+		"name": "Chlorhexidine",
+		"category": "Other"
+	},
+	{
+		"name": "Chloroquine",
+		"category": "Other"
+	},
+	{
+		"name": "Chlorphenamine",
+		"category": "Other"
+	},
+	{
+		"name": "Chlorpromazine",
+		"category": "Other"
+	},
+	{
+		"name": "Ciprofl oxacin",
+		"category": "Other"
+	},
+	{
+		"name": "Clarithromycin",
+		"category": "Other"
+	},
+	{
+		"name": "Clindamycin",
+		"category": "Other"
+	},
+	{
+		"name": "Clindamycin topical",
+		"category": "Other"
+	},
+	{
+		"name": "Clofazimine",
+		"category": "Other"
+	},
+	{
+		"name": "Clomipramine",
+		"category": "Other"
+	},
+	{
+		"name": "Cloxacillin",
+		"category": "Other"
+	},
+	{
+		"name": "Coal tar",
+		"category": "Other"
+	},
+	{
+		"name": "Codeine",
+		"category": "Other"
+	},
+	{
+		"name": "Cotrimoxazole (TMP-SMZ)",
+		"category": "Other"
+	},
+	{
+		"name": "Dapsone",
+		"category": "Other"
+	},
+	{
+		"name": "Deferoxamine",
+		"category": "Other"
+	},
+	{
+		"name": "Dexamethasone",
+		"category": "Other"
+	},
+	{
+		"name": "Diazepam",
+		"category": "Other"
+	},
+	{
+		"name": "Diethylcarbamazine",
+		"category": "Other"
+	},
+	{
+		"name": "Dihydro-artemisinin + piperaquine",
+		"category": "Other"
+	},
+	{
+		"name": "Diloxanide",
+		"category": "Other"
+	},
+	{
+		"name": "Dithranol",
+		"category": "Other"
+	},
+	{
+		"name": "Dopamine",
+		"category": "Other"
+	},
+	{
+		"name": "Doxycycline",
+		"category": "Other"
+	},
+	{
+		"name": "Efl ornithine",
+		"category": "Other"
+	},
+	{
+		"name": "Enalapril",
+		"category": "Other"
+	},
+	{
+		"name": "Epinephrine (adrenaline)",
+		"category": "Other"
+	},
+	{
+		"name": "Ergometrine",
+		"category": "Other"
+	},
+	{
+		"name": "Erythromycin",
+		"category": "Other"
+	},
+	{
+		"name": "Erythromycin topical",
+		"category": "Other"
+	},
+	{
+		"name": "Ethambutol",
+		"category": "Other"
+	},
+	{
+		"name": "Ethanol",
+		"category": "Other"
+	},
+	{
+		"name": "Ferrous sulphate",
+		"category": "Other"
+	},
+	{
+		"name": "Fluconazole",
+		"category": "Other"
+	},
+	{
+		"name": "Flucytosine (5-FC)",
+		"category": "Other"
+	},
+	{
+		"name": "Fluoxetine",
+		"category": "Other"
+	},
+	{
+		"name": "Fluphenazine",
+		"category": "Other"
+	},
+	{
+		"name": "Folic acid",
+		"category": "Other"
+	},
+	{
+		"name": "Folinic acid",
+		"category": "Other"
+	},
+	{
+		"name": "Furosemide",
+		"category": "Other"
+	},
+	{
+		"name": "Gabapentin",
+		"category": "Other"
+	},
+	{
+		"name": "Ganciclovir",
+		"category": "Other"
+	},
+	{
+		"name": "Gentamicin",
+		"category": "Other"
+	},
+	{
+		"name": "Gentamicin eye drops",
+		"category": "Other"
+	},
+	{
+		"name": "Griseofulvin",
+		"category": "Other"
+	},
+	{
+		"name": "Haloperidol",
+		"category": "Other"
+	},
+	{
+		"name": "Hydralazine IV",
+		"category": "Other"
+	},
+	{
+		"name": "Hydrochlorthiazide",
+		"category": "Other"
+	},
+	{
+		"name": "Hydrocortisone",
+		"category": "Other"
+	},
+	{
+		"name": "Hydrocortisone cream",
+		"category": "Other"
+	},
+	{
+		"name": "Hydroxypropyl methylcellulose eye drops",
+		"category": "Other"
+	},
+	{
+		"name": "Ibuprofen",
+		"category": "Other"
+	},
+	{
+		"name": "Insulin (soluble)",
+		"category": "Other"
+	},
+	{
+		"name": "Ipratropium bromide",
+		"category": "Other"
+	},
+	{
+		"name": "Isoniazid",
+		"category": "Other"
+	},
+	{
+		"name": "Isosorbide dinitrate",
+		"category": "Other"
+	},
+	{
+		"name": "Itraconazole",
+		"category": "Other"
+	},
+	{
+		"name": "Ivermectin",
+		"category": "Other"
+	},
+	{
+		"name": "Ketamine",
+		"category": "Other"
+	},
+	{
+		"name": "Lactulose",
+		"category": "Other"
+	},
+	{
+		"name": "Levonorgestrel",
+		"category": "Other"
+	},
+	{
+		"name": "Lidocaine",
+		"category": "Other"
+	},
+	{
+		"name": "Magnesium sulfate",
+		"category": "Other"
+	},
+	{
+		"name": "Malathion",
+		"category": "Other"
+	},
+	{
+		"name": "Mebendazole",
+		"category": "Other"
+	},
+	{
+		"name": "Meglumine antimoniate",
+		"category": "Other"
+	},
+	{
+		"name": "Melarsoprol",
+		"category": "Other"
+	},
+	{
+		"name": "Methadone",
+		"category": "Other"
+	},
+	{
+		"name": "Methylthioninium chloride (methylene blue)",
+		"category": "Other"
+	},
+	{
+		"name": "Metoclopramide",
+		"category": "Other"
+	},
+	{
+		"name": "Metronidazole",
+		"category": "Other"
+	},
+	{
+		"name": "Miconazole",
+		"category": "Other"
+	},
+	{
+		"name": "Midazolam",
+		"category": "Other"
+	},
+	{
+		"name": "Miltefosine",
+		"category": "Other"
+	},
+	{
+		"name": "Misoprostol",
+		"category": "Other"
+	},
+	{
+		"name": "Morphine",
+		"category": "Other"
+	},
+	{
+		"name": "Mupirocin",
+		"category": "Other"
+	},
+	{
+		"name": "Naloxone",
+		"category": "Other"
+	},
+	{
+		"name": "Naltrexone",
+		"category": "Other"
+	},
+	{
+		"name": "Neostigmine",
+		"category": "Other"
+	},
+	{
+		"name": "Nifurtimox",
+		"category": "Other"
+	},
+	{
+		"name": "Nitrofurantoin",
+		"category": "Other"
+	},
+	{
+		"name": "Omeprazole",
+		"category": "Other"
+	},
+	{
+		"name": "Ondansetron",
+		"category": "Other"
+	},
+	{
+		"name": "Oseltamivir",
+		"category": "Other"
+	},
+	{
+		"name": "Oxytocin",
+		"category": "Other"
+	},
+	{
+		"name": "Paracetamol",
+		"category": "Other"
+	},
+	{
+		"name": "Paromomycin",
+		"category": "Other"
+	},
+	{
+		"name": "Pentamidine",
+		"category": "Other"
+	},
+	{
+		"name": "Permethrin",
+		"category": "Other"
+	},
+	{
+		"name": "Phenobarbital",
+		"category": "Other"
+	},
+	{
+		"name": "Phenoxymethyl-penicillin (penicillin V)",
+		"category": "Other"
+	},
+	{
+		"name": "Phenytoin",
+		"category": "Other"
+	},
+	{
+		"name": "Pilocarpine eye drops",
+		"category": "Other"
+	},
+	{
+		"name": "Podophyllum resin",
+		"category": "Other"
+	},
+	{
+		"name": "Polyvidone iodine (povidone–iodine)",
+		"category": "Other"
+	},
+	{
+		"name": "Polyethylene glycol electrolyte solution",
+		"category": "Other"
+	},
+	{
+		"name": "Potassium permanganate",
+		"category": "Other"
+	},
+	{
+		"name": "Potassium chloride",
+		"category": "Other"
+	},
+	{
+		"name": "Praziquantel",
+		"category": "Other"
+	},
+	{
+		"name": "Prednisolone",
+		"category": "Other"
+	},
+	{
+		"name": "Primaquine",
+		"category": "Other"
+	},
+	{
+		"name": "Procaine benzylpenicillin G",
+		"category": "Other"
+	},
+	{
+		"name": "Propranolol",
+		"category": "Other"
+	},
+	{
+		"name": "Pyridoxine (vitamin B6)",
+		"category": "Other"
+	},
+	{
+		"name": "Pyrimethamine",
+		"category": "Other"
+	},
+	{
+		"name": "Quinine",
+		"category": "Other"
+	},
+	{
+		"name": "Quinine + clindamycin",
+		"category": "Other"
+	},
+	{
+		"name": "Rifampicin",
+		"category": "Other"
+	},
+	{
+		"name": "Rifampicin + isoniazid + pyrazinamide + ethambutol hydrochloride",
+		"category": "Other"
+	},
+	{
+		"name": "Salbutamol",
+		"category": "Other"
+	},
+	{
+		"name": "Salicylic acid",
+		"category": "Other"
+	},
+	{
+		"name": "Selenium sulfi de",
+		"category": "Other"
+	},
+	{
+		"name": "Senna",
+		"category": "Other"
+	},
+	{
+		"name": "Sodium bicarbonate",
+		"category": "Other"
+	},
+	{
+		"name": "Sodium cromoglycate",
+		"category": "Other"
+	},
+	{
+		"name": "Sodium nitrite",
+		"category": "Other"
+	},
+	{
+		"name": "Sodium nitroprusside",
+		"category": "Other"
+	},
+	{
+		"name": "Sodium stibogluconate",
+		"category": "Other"
+	},
+	{
+		"name": "Sodium thiosulfate",
+		"category": "Other"
+	},
+	{
+		"name": "Spectinomycin",
+		"category": "Other"
+	},
+	{
+		"name": "Spironolactone",
+		"category": "Other"
+	},
+	{
+		"name": "Streptomycin",
+		"category": "Other"
+	},
+	{
+		"name": "Sulfadiazine",
+		"category": "Other"
+	},
+	{
+		"name": "Sulfadoxine with pyrimethamine (SP)",
+		"category": "Other"
+	},
+	{
+		"name": "Sulfamethoxazole with trimethoprim (TMP-SMX)(see cotrimoxazole)",
+		"category": "Other"
+	},
+	{
+		"name": "Suramin",
+		"category": "Other"
+	},
+	{
+		"name": "Terbinafi ne",
+		"category": "Other"
+	},
+	{
+		"name": "Tetracaine (amethocaine) eye drops",
+		"category": "Other"
+	},
+	{
+		"name": "Tetracycline",
+		"category": "Other"
+	},
+	{
+		"name": "Tetracycline eye ointment",
+		"category": "Other"
+	},
+	{
+		"name": "Thiamine",
+		"category": "Other"
+	},
+	{
+		"name": "Tranexamic acid (TXA)",
+		"category": "Other"
+	},
+	{
+		"name": "Tretinoin",
+		"category": "Other"
+	},
+	{
+		"name": "Triclabendazole",
+		"category": "Other"
+	},
+	{
+		"name": "Trimethoprim-sulfamethoxazole (see cotrimoxazole)",
+		"category": "Other"
+	},
+	{
+		"name": "Urea",
+		"category": "Other"
+	},
+	{
+		"name": "Valproic acid (sodium valproate)",
+		"category": "Other"
+	},
+	{
+		"name": "Vitamin B6 (see pyridoxine)",
+		"category": "Other"
+	},
+	{
+		"name": "Vitamin B12 (hydroxocobalamin)",
+		"category": "Other"
+	},
+	{
+		"name": "Vitamin K (phytomenadion)",
+		"category": "Other"
+	}
+]

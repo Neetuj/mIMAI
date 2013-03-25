@@ -3,5 +3,5 @@
 </div>
 
 <div data-role="content">
-	<button id="btnDrugsView">Lookup drugs</button>
+	<a href="#drug" data-role="button">Lookup a drug</a>
 </div>
