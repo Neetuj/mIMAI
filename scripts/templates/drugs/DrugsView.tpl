@@ -4,8 +4,10 @@
 </div>
 <% _.each( collection.toJSON(), function( drug ) { %>
 	
-	<li class="ui-li ui-li-static ui-btn-up-c ui-corner-top">
-		<%= drug.name %>
-	</li>
+	<a href="#drugs/<%= drug.id %>">
+		<li class="ui-li ui-li-static ui-btn-up-c ui-corner-top">
+			<%= drug.name %>
+		</li>
+	</a>
 
 <% }); console.log(collection)%>

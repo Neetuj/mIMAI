@@ -1,0 +1,4017 @@
+[
+	{
+		"id": "1",
+		"drugId": "1",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Limited safety data available, but continuation of antiretroviral therapy throughout pregnancy is recommended. Potential alternate if AZT and TDF are not tolerated during pregnancy."
+	},
+	{
+		"id": "2",
+		"drugId": "1",
+		"tag": "Use with caution",
+		"note": "In hepatic disease. Can lead to potential life-threatening lactic acidosis. Safe to use after lactic acidosis. Do not use after ABC hypersensitivity reactions."
+	},
+	{
+		"id": "3",
+		"drugId": "2",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Not recommended  during pregnancy or breastfeeding."
+	},
+	{
+		"id": "4",
+		"drugId": "2",
+		"tag": "Use with caution",
+		"note": "Renal or hepatic  impairment (give lower doses) Does not alter CNS effects of drinking alcohol or withdrawal symptoms"
+	},
+	{
+		"id": "5",
+		"drugId": "3",
+		"tag": "Contraindications",
+		"note": " Hypokalaemia, hyponatraemia, acidosis, severe renal impairment, severe hepatic impairment, chronic angle-closure glaucoma (may mask deterioration)"
+	},
+	{
+		"id": "6",
+		"drugId": "3",
+		"tag": "Counselling",
+		"note": "Take tablets  with meals to reduce  the risk of stomach upset."
+	},
+	{
+		"id": "7",
+		"drugId": "3",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Avoid in first trimester of pregnancy."
+	},
+	{
+		"id": "8",
+		"drugId": "3",
+		"tag": "Use with caution",
+		"note": " In the elderly, diabetes mellitus, gout, history of renal stones, sulfonamide allergy"
+	},
+	{
+		"id": "9",
+		"drugId": "4",
+		"tag": "Administration",
+		"note": " IV: Dilute requisite  dose in glucose intravenous infusion 5% as follows: initially 200 ml given over 15 minutes,  then 500 ml over 4 hours, then 1 litre over 16 hours. Oral: Dilute to a 5% solution in soda pop, juice, or water prior to ora"
+	},
+	{
+		"id": "10",
+		"drugId": "4",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Clinical experience  indicates  that use of acetylcysteine for treatment of paracetamol overdose is effective and benefits outweigh risks."
+	},
+	{
+		"id": "11",
+		"drugId": "4",
+		"tag": "Storage",
+		"note": "A change in the colour of the solution to light purple has sometimes been noted; this colour change is not thought to indicate significant impairment of safety or efficacy. Store below 25°C."
+	},
+	{
+		"id": "12",
+		"drugId": "4",
+		"tag": "Use with caution",
+		"note": " In patients with asthma or history of bronchospasm, but do not delay acetylcysteine treatment"
+	},
+	{
+		"id": "13",
+		"drugId": "5",
+		"tag": "Administration",
+		"note": " Give with food, large quantities (~240 ml) of water (unless fluid restricted) or milk to minimize gastric irritation."
+	},
+	{
+		"id": "14",
+		"drugId": "5",
+		"tag": "Breastfeeding",
+		"note": " Short course safe in breastfeeding at usual dosage (monitor infant, regular use of high doses could produce hypoprothrombinaemia in infant if neonatal vitamin K stores low; possible risk of Reye syndrome; avoid breastfeeding  1–2 hours after"
+	},
+	{
+		"id": "15",
+		"drugId": "5",
+		"tag": "Contraindications",
+		"note": " In hypersensitivity (including asthma, angioedema, urticaria or rhinitis) to acetylsalicylic  acid or any other NSAID, active peptic ulceration, bleeding disorders, and in children and adolescents under 16 years (Reye syndrome) Not for t"
+	},
+	{
+		"id": "16",
+		"drugId": "5",
+		"tag": "Counselling",
+		"note": " If you develop swollen ankles, difficulty in breathing, black stools or vomit that looks like coffee grounds stop taking the medicine."
+	},
+	{
+		"id": "17",
+		"drugId": "5",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Precautions  in the first and second trimesters – low doses probably not harmful. Consider alternative for analgesia. Use not recommended in third trimester due to impaired platelet function and risk of haemorrhage. Delayed onset a"
+	},
+	{
+		"id": "18",
+		"drugId": "5",
+		"tag": "Use with caution",
+		"note": " in asthma, heart failure, uncontrolled hypertension, allergic disease, previous peptic ulceration, renal impairment, hepatic impairment, G6PD deficiency, dehydration, and in the elderly"
+	},
+	{
+		"id": "19",
+		"drugId": "6",
+		"tag": "Administration",
+		"note": " Maintain adequate hydration with IV use (balance with risk of cerebral oedema in patients with encephalitis). Infuse IV dose over 1 hour to prevent renal damage. Ensure adequate fluid intake (1.5–2 litres/day), which should also be maintain"
+	},
+	{
+		"id": "20",
+		"drugId": "6",
+		"tag": "Breastfeeding",
+		"note": "Considered  safe"
+	},
+	{
+		"id": "21",
+		"drugId": "6",
+		"tag": "Counselling",
+		"note": " Drink plenty of fluids (at least 1.5–2 litres/daily). Tablet can be dissolved in water if desired. If taking 5 times daily, take every 4 hours during waking hours."
+	},
+	{
+		"id": "22",
+		"drugId": "6",
+		"tag": "Pregnancy",
+		"note": "Precautions in the first trimester"
+	},
+	{
+		"id": "23",
+		"drugId": "6",
+		"tag": "Use with caution",
+		"note": " In renal impairment,  with concurrent administration of other nephrotoxic drugs, use of IV form in patients with underlying neurological abnormalities, in elderly patients"
+	},
+	{
+		"id": "24",
+		"drugId": "7",
+		"tag": "Administration",
+		"note": "Check liver function  tests and blood counts before longer-term treatment and twice during each cycle (every 2 weeks). Cease therapy if enzymes greater than twice normal limit."
+	},
+	{
+		"id": "25",
+		"drugId": "7",
+		"tag": "Contraindications",
+		"note": "Do not co-administer ivermectin if onchocerciasis or loaisis are co-endemic with filariasis."
+	},
+	{
+		"id": "26",
+		"drugId": "7",
+		"tag": "Counselling",
+		"note": "Chew and take on an empty stomach."
+	},
+	{
+		"id": "27",
+		"drugId": "7",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Recommended for use only during the second and third trimesters of pregnancy and only when there are no alternatives and benefit outweighs risk."
+	},
+	{
+		"id": "28",
+		"drugId": "8",
+		"tag": "Contraindications",
+		"note": " Hyperkalaemia, renal failure"
+	},
+	{
+		"id": "29",
+		"drugId": "8",
+		"tag": "Counselling",
+		"note": "Take in the morning. Dizziness with standing may occur."
+	},
+	{
+		"id": "30",
+		"drugId": "8",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Not recommended  in pregnancy or breastfeeding; consider alternatives."
+	},
+	{
+		"id": "31",
+		"drugId": "8",
+		"tag": "Use with caution",
+		"note": " In the elderly, debilitated patients with cardiopulmonary disease or uncontrolled type 1 diabetes; in patients with cirrhosis, may precipitate renal failure, hyperchloraemic metabolic acidosis, hepatic encephalopathy; with medicines that "
+	},
+	{
+		"id": "32",
+		"drugId": "9",
+		"tag": "Breastfeeding",
+		"note": " Use with caution  if indicated and if the drug of choice; reversible withdrawal  symptoms and adverse effects possible (monitor infant for drowsiness). Preferably, give as a single nightly dose after breastfeeding."
+	},
+	{
+		"id": "33",
+		"drugId": "9",
+		"tag": "Contraindications",
+		"note": " Patient has taken an MAO-I within 2 weeks, recent myocardial infarction, arrhythmias (especially heart block), bipolar disorder, severe liver disease. Do not use in adolescents."
+	},
+	{
+		"id": "34",
+		"drugId": "9",
+		"tag": "Counselling",
+		"note": "Blurred  vision and dry mouth may be troublesome but may lessen or disappear after about 7 days. Try to take it at night to reduce daytime drowsiness. You may feel dizzy on standing when taking this medicine; get up gradually from sitting or l"
+	},
+	{
+		"id": "35",
+		"drugId": "9",
+		"tag": "Pregnancy",
+		"note": " Manufacturer advises against use unless essential, particularly during first and third trimesters."
+	},
+	{
+		"id": "36",
+		"drugId": "9",
+		"tag": "Use with caution",
+		"note": " In elderly, patients with cardiac  history; epilepsy, hepatic impairment, thyroid disease, pheochromocytoma, history of mania, psychoses, angle- closure glaucoma, history of urinary retention, concurrent electroconvulsive therapy, anaesth"
+	},
+	{
+		"id": "37",
+		"drugId": "10",
+		"tag": "Administration",
+		"note": "Renal dose adjustment  required  (do not use high doses with CrCl ?30 ml/hour). 875 mg orally  every 12 hours can be substituted for 500 mg orally every 8 hours."
+	},
+	{
+		"id": "38",
+		"drugId": "10",
+		"tag": "Breastfeeding",
+		"note": "Considered  safe."
+	},
+	{
+		"id": "39",
+		"drugId": "10",
+		"tag": "Contraindications",
+		"note": "Known severe hypersensitivity to penicillins or other beta-lactams"
+	},
+	{
+		"id": "40",
+		"drugId": "10",
+		"tag": "Counselling",
+		"note": " To minimize stomach  upset, take at the start of a meal."
+	},
+	{
+		"id": "41",
+		"drugId": "10",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Not known to be harmful."
+	},
+	{
+		"id": "42",
+		"drugId": "10",
+		"tag": "Use with caution",
+		"note": " In history of mild hypersensitivity to beta- lactams, renal impairment, hepatic impairment"
+	},
+	{
+		"id": "43",
+		"drugId": "11",
+		"tag": "Breastfeeding",
+		"note": "Considered  safe"
+	},
+	{
+		"id": "44",
+		"drugId": "11",
+		"tag": "Contraindications",
+		"note": "Known hypersensitivity/ anaphylaxis to penicillins or other beta-lactams"
+	},
+	{
+		"id": "45",
+		"drugId": "11",
+		"tag": "Counselling",
+		"note": "Swallow the capsule whole with a glass of water at the start of a meal or slightly before."
+	},
+	{
+		"id": "46",
+		"drugId": "11",
+		"tag": "Pregnancy",
+		"note": "Not known to be harmful"
+	},
+	{
+		"id": "47",
+		"drugId": "11",
+		"tag": "Use with caution",
+		"note": "If history of allergy or renal impairment. Maintain adequate hydration with high doses (risk of crystalluria). Reduce dose if severe renal failure."
+	},
+	{
+		"id": "48",
+		"drugId": "12",
+		"tag": "Administration",
+		"note": " Follow instructions in Section 11.5. Give via D5W IV infusion (incompatible  with NS, 1/2 NS, other saline-containing solutions, or preservatives) over 2 to 6 hours. Infusion time may be reduced to approximately 1 hour in patients who toler"
+	},
+	{
+		"id": "49",
+		"drugId": "12",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Use with caution  in pregnancy  or breastfeeding, if clinically indicated. Available safety data are limited."
+	},
+	{
+		"id": "50",
+		"drugId": "12",
+		"tag": "Use with caution",
+		"note": "In renal impairment use liposomal amphotericin if possible (see Section 11.5)."
+	},
+	{
+		"id": "51",
+		"drugId": "13",
+		"tag": "Administration",
+		"note": "See conventional amphotericin B."
+	},
+	{
+		"id": "52",
+		"drugId": "13",
+		"tag": "Note",
+		"note": "If available, liposomal amphotericin B should be used instead of conventional amphotericin B in patients with renal failure; or switch from amphotericin B if renal impairment develops. Available at decreased cost through WHO-Gilead partnership for leishman"
+	},
+	{
+		"id": "53",
+		"drugId": "13",
+		"tag": "Use with caution",
+		"note": "In renal impairment;  continue  to monitor electrolytes and renal function tests despite lower incidence of adverse renal effects than with conventional amphotericin."
+	},
+	{
+		"id": "54",
+		"drugId": "14",
+		"tag": "Administration",
+		"note": "Injection contains 2.7 mmol (62 mg) sodium/ gram. Reduce dose in severe renal failure."
+	},
+	{
+		"id": "55",
+		"drugId": "14",
+		"tag": "Breastfeeding",
+		"note": "Considered  safe"
+	},
+	{
+		"id": "56",
+		"drugId": "14",
+		"tag": "Contraindications",
+		"note": "Severe hypersensitivity to penicillins and other beta-lactams"
+	},
+	{
+		"id": "57",
+		"drugId": "14",
+		"tag": "Pregnancy",
+		"note": "Not known to be harmful."
+	},
+	{
+		"id": "58",
+		"drugId": "14",
+		"tag": "Use with caution",
+		"note": " In mild hypersensitivity to beta-lactams with renal impairment. Erythematous rashes common in glandular fever, lymphocytic leukaemia, Epstein-Barr virus, cytomegalovirus infection."
+	},
+	{
+		"id": "59",
+		"drugId": "15",
+		"tag": "Pregnancy",
+		"note": "Both artesunate  and quinine may be considered as options for the treatment of severe malaria during pregnancy. See note under artesunate"
+	},
+	{
+		"id": "60",
+		"drugId": "15",
+		"tag": "Use with caution",
+		"note": " In all patients, artemether  IM should only be used if parenteral formulations of artesunate or quinine are not available, as its absorption may be erratic."
+	},
+	{
+		"id": "61",
+		"drugId": "16",
+		"tag": "Administration",
+		"note": "Lumefantrine absorption is enhanced by co-administration with fat."
+	},
+	{
+		"id": "62",
+		"drugId": "16",
+		"tag": "Contraindications",
+		"note": " History of arrhythmias, clinically relevant bradycardia, or CHF with reduced  LV ejection  fraction;  family history of sudden death or prolonged QT interval."
+	},
+	{
+		"id": "63",
+		"drugId": "16",
+		"tag": "Counselling",
+		"note": "Take this ACT immediately  after a meal or drink containing at least 1.2 g fat. Dizziness may impair  ability to perform skilled tasks such as operating machinery and driving."
+	},
+	{
+		"id": "64",
+		"drugId": "16",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Not recommended  in first- trimester pregnancy unless no other treatment immediately available."
+	},
+	{
+		"id": "65",
+		"drugId": "17",
+		"tag": "Administration",
+		"note": "The solution should be used immediately after the powder is dissolved. It should not be used for intravenous infusion if the solution appears cloudy or if sediment is present."
+	},
+	{
+		"id": "66",
+		"drugId": "17",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Both artesunate  and quinine may be considered as options for the treatment of severe malaria during pregnancy. Treatment must not be delayed; so, if only one of the drugs artesunate, artemether, or quinine is available, then that "
+	},
+	{
+		"id": "67",
+		"drugId": "17",
+		"tag": "Use with caution",
+		"note": " In patients who must perform skilled tasks, such as operating machinery or driving, that would be impaired by dizziness."
+	},
+	{
+		"id": "68",
+		"drugId": "18",
+		"tag": "Breastfeeding",
+		"note": "No data available on the excretion of artesunate/amodiaquine fixed-dose combination in breast milk. Continuation can be considered while taking into account safety profile of artesunate/amodiaquine fixed-dose combination tablets."
+	},
+	{
+		"id": "69",
+		"drugId": "18",
+		"tag": "Contraindications",
+		"note": " Previous hypersensitivity to amodiaquine or artesunate, history of liver toxicity or neutropenia during treatment with amodiaquine, retinopathy (in cases of frequent treatment)"
+	},
+	{
+		"id": "70",
+		"drugId": "18",
+		"tag": "Counselling",
+		"note": " Somnolence, dizziness, or weakness may occur. May impair ability to perform skilled tasks such as operating machinery and driving."
+	},
+	{
+		"id": "71",
+		"drugId": "18",
+		"tag": "Pregnancy",
+		"note": "Not recommended in first-trimester pregnancy unless no other treatment immediately available"
+	},
+	{
+		"id": "72",
+		"drugId": "18",
+		"tag": "Use with caution",
+		"note": "Avoid if possible in PLHIV on zidovudine or efavirenz."
+	},
+	{
+		"id": "73",
+		"drugId": "19",
+		"tag": "Breastfeeding",
+		"note": "See clindamycin."
+	},
+	{
+		"id": "74",
+		"drugId": "19",
+		"tag": "Pregnancy",
+		"note": "Not recommended during the first trimester unless no other treatment available."
+	},
+	{
+		"id": "75",
+		"drugId": "20",
+		"tag": "Breastfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "76",
+		"drugId": "20",
+		"tag": "Contraindications",
+		"note": " Do not give mefloquine  within  60 days of prior administration. History of neuropsychiatric disorders, epilepsy, hypersensitivity to quinine"
+	},
+	{
+		"id": "77",
+		"drugId": "20",
+		"tag": "Counselling",
+		"note": "May impair ability  to perform  skilled tasks such as operating machinery and driving. These effects may continue up to 3 weeks after the last dose."
+	},
+	{
+		"id": "78",
+		"drugId": "20",
+		"tag": "Pregnancy",
+		"note": "Not recommended during the first trimester unless no other treatment immediately available."
+	},
+	{
+		"id": "79",
+		"drugId": "20",
+		"tag": "Use with caution",
+		"note": " Avoid in severe hepatic impairment, cardiac conduction disorders."
+	},
+	{
+		"id": "80",
+		"drugId": "21",
+		"tag": "Breastfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "81",
+		"drugId": "21",
+		"tag": "Pregnancy",
+		"note": "Not recommended in the first trimester unless no other treatment immediately available."
+	},
+	{
+		"id": "82",
+		"drugId": "21",
+		"tag": "Use with caution",
+		"note": "Do not choose this option if patient is taking cotrimoxazole prophylaxis. See cotrimoxazole."
+	},
+	{
+		"id": "83",
+		"drugId": "23",
+		"tag": "Administration",
+		"note": "Take both at same time with food"
+	},
+	{
+		"id": "84",
+		"drugId": "23",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Generally safe"
+	},
+	{
+		"id": "85",
+		"drugId": "23",
+		"tag": "Use with caution",
+		"note": "In haemophilia- possible increased bleeding episodes"
+	},
+	{
+		"id": "86",
+		"drugId": "24",
+		"tag": "Breastfeeding",
+		"note": " Use with caution in breastfeeding; monitor infant (e.g. drying of secretions, temperature rise). May suppress milk production."
+	},
+	{
+		"id": "87",
+		"drugId": "24",
+		"tag": "Contraindications",
+		"note": "Angle-closure glaucoma."
+	},
+	{
+		"id": "88",
+		"drugId": "24",
+		"tag": "Pregnancy",
+		"note": "May be used at recommended doses. Can affect fetal heart rate."
+	},
+	{
+		"id": "89",
+		"drugId": "24",
+		"tag": "Use with caution",
+		"note": " In Down syndrome, myasthenia  gravis, pyloric stenosis, ileus, prostatic enlargement, cardiac disorders, hypoxia, and in the elderly. Patients with pyrexia and in warm environments: Monitor temperature and keep patients cool. Use may prec"
+	},
+	{
+		"id": "90",
+		"drugId": "25",
+		"tag": "Contraindications",
+		"note": "Angle-closure glaucoma"
+	},
+	{
+		"id": "91",
+		"drugId": "25",
+		"tag": "Counselling",
+		"note": "Avoid skilled tasks, such as operating machinery or driving, until your vision is clear."
+	},
+	{
+		"id": "92",
+		"drugId": "25",
+		"tag": "Precautions",
+		"note": "May cause sensitivity to light and blurred vision."
+	},
+	{
+		"id": "93",
+		"drugId": "26",
+		"tag": "Administration",
+		"note": "Capsule should be taken on an empty stomach. Oral suspension can be taken with food."
+	},
+	{
+		"id": "94",
+		"drugId": "26",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity to macrolides"
+	},
+	{
+		"id": "95",
+		"drugId": "26",
+		"tag": "Counselling",
+		"note": "Swallow whole at least 1 hour before or 2 hours after food. Do not take with aluminium or indigestion remedies containing magnesium."
+	},
+	{
+		"id": "96",
+		"drugId": "26",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Use, with caution, in pregnancy  or breastfeeding, if clinically indicated. Available data on safety are lmited."
+	},
+	{
+		"id": "97",
+		"drugId": "26",
+		"tag": "Use with caution",
+		"note": " In renal impairment, hepatic impairment; in combination with other medications that can prolong QT interval; myasthenia gravis"
+	},
+	{
+		"id": "98",
+		"drugId": "27",
+		"tag": "Breastfeeding",
+		"note": "Considered  safe"
+	},
+	{
+		"id": "99",
+		"drugId": "27",
+		"tag": "Pregnancy",
+		"note": "Benefit of treatment greater than risk. Not known to be harmful."
+	},
+	{
+		"id": "100",
+		"drugId": "27",
+		"tag": "Use with caution",
+		"note": "If active or quiescent TB possible."
+	},
+	{
+		"id": "101",
+		"drugId": "28",
+		"tag": "Administration",
+		"note": "Given by deep IM injection only. Give doses of more than 900 mg as two injections at separate sites. Do not give IV. Avoid intrathecal injection."
+	},
+	{
+		"id": "102",
+		"drugId": "28",
+		"tag": "Breastfeeding",
+		"note": "Considered  safe (monitor infant)"
+	},
+	{
+		"id": "103",
+		"drugId": "28",
+		"tag": "Contraindications",
+		"note": "Severe hypersensitivity to penicillins or other beta-lactams"
+	},
+	{
+		"id": "104",
+		"drugId": "28",
+		"tag": "Pregnancy",
+		"note": "Not known to be harmful."
+	},
+	{
+		"id": "105",
+		"drugId": "28",
+		"tag": "Use with caution",
+		"note": " With history of allergy, renal failure, heart failure."
+	},
+	{
+		"id": "106",
+		"drugId": "29",
+		"tag": "Administration",
+		"note": "Preferably  after meals"
+	},
+	{
+		"id": "107",
+		"drugId": "29",
+		"tag": "Contraindications",
+		"note": "Renal impairment;  hepatic  impairment"
+	},
+	{
+		"id": "108",
+		"drugId": "29",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Not recommended  in first trimester; use, with caution, in second and third trimester or breastfeeding if clinically indicated. Available data on safety are limited."
+	},
+	{
+		"id": "109",
+		"drugId": "30",
+		"tag": "Counselling",
+		"note": " Before applying, wash affected area with mild soap or soap substitute and warm water. Gently pat dry. Then apply a thin layer to the affected area and rub in gently. May bleach fabrics, hair, and skin. Avoid excessive exposure to sunlight."
+	},
+	{
+		"id": "110",
+		"drugId": "30",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "111",
+		"drugId": "30",
+		"tag": "Use with caution",
+		"note": " Avoid contact  with eyes, mouth, and mucous membranes; avoid use of occlusive dressings."
+	},
+	{
+		"id": "112",
+		"drugId": "31",
+		"tag": "Administration",
+		"note": "See Section 10.2.3. Do not bathe  before application. Application to the face and genitals can cause irritation; an alternative agent such as permethrin is preferable."
+	},
+	{
+		"id": "113",
+		"drugId": "31",
+		"tag": "Breastfeeding",
+		"note": " May be used at the recommended dose if it is the treatment of choice; systemic absorption likely to be minimal with topical use, but excess lotion should be wiped from nipple areas, and infant skin contact, minimized."
+	},
+	{
+		"id": "114",
+		"drugId": "31",
+		"tag": "Counselling",
+		"note": " Remember to apply also between fingers and toes, under nails, in skin folds, navel, between the buttocks, and on groin area. If you wash your hands or any other parts of the body during the treatment period, you should reapply the lotion to th"
+	},
+	{
+		"id": "115",
+		"drugId": "31",
+		"tag": "Pregnancy",
+		"note": " May be used in pregnancy at the recommended dose, but permethrin is the preferred treatment during pregnancy."
+	},
+	{
+		"id": "116",
+		"drugId": "31",
+		"tag": "Use with caution",
+		"note": "Do not use on inflamed or broken skin. Avoid contact with eyes and mucous membranes."
+	},
+	{
+		"id": "117",
+		"drugId": "32",
+		"tag": "See benzathine benzylpenicillin.",
+		"note": ""
+	},
+	{
+		"id": "118",
+		"drugId": "33",
+		"tag": "Contraindications",
+		"note": " Untreated skin infections, broken skin, rosacea, acne, perioral dermatitis"
+	},
+	{
+		"id": "119",
+		"drugId": "33",
+		"tag": "Counselling",
+		"note": " Apply a thin layer by smoothing  gently into skin, preferably after bathing."
+	},
+	{
+		"id": "120",
+		"drugId": "33",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "May be used in pregnancy  and breastfeeding; systemic absorption likely to be minimal with topical use."
+	},
+	{
+		"id": "121",
+		"drugId": "33",
+		"tag": "Use with caution",
+		"note": " In psoriasis (may precipitate severe pustular psoriasis on withdrawal; avoid in widespread plaque psoriasis). If used on a large area of the body or for a long time, risk for adrenal suppression (particularly with an occlusive dressing). "
+	},
+	{
+		"id": "122",
+		"drugId": "34",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Appears to be safe"
+	},
+	{
+		"id": "123",
+		"drugId": "35",
+		"tag": "Breastfeeding",
+		"note": " Caution in breastfeeding; poor oral bioavailability, but monitor infant for opiate side-effects."
+	},
+	{
+		"id": "124",
+		"drugId": "35",
+		"tag": "Counselling",
+		"note": "Place the tablet  under the tongue and keep in place until dissolved. Do not chew or swallow the tablet."
+	},
+	{
+		"id": "125",
+		"drugId": "35",
+		"tag": "Pregnancy",
+		"note": "Previously  commenced  therapy can be maintained."
+	},
+	{
+		"id": "126",
+		"drugId": "35",
+		"tag": "Use with caution",
+		"note": "Must not be given while the person has any signs of opioid toxicity due to risk of precipitating withdrawal syndrome. Buprenorphine has both opioid agonist and antagonist properties and may precipitate withdrawal  symptoms in people with"
+	},
+	{
+		"id": "127",
+		"drugId": "37",
+		"tag": "Administration",
+		"note": " Monitor  ECG (and plasma calcium if feasible) with IV administration. Do not give by subcutaneous or IM route, as it will cause tissue necrosis. For infusion,  dilute  100 ml of calcium  gluconate  10% in 1 litre of glucose 5% or sodium chl"
+	},
+	{
+		"id": "128",
+		"drugId": "37",
+		"tag": "Breastfeeding",
+		"note": "Calcium in breastmilk  is normal nutritional component."
+	},
+	{
+		"id": "129",
+		"drugId": "37",
+		"tag": "Contraindications",
+		"note": " Conditions associated with hypercalcaemia and hypercalciuria (for example, some forms of malignant disease)"
+	},
+	{
+		"id": "130",
+		"drugId": "37",
+		"tag": "Pregnancy",
+		"note": "Use only when indicated (no controlled trials or animal studies)."
+	},
+	{
+		"id": "131",
+		"drugId": "37",
+		"tag": "Use with caution",
+		"note": " In renal impairment,  sarcoidosis,  history of nephrolithiasis"
+	},
+	{
+		"id": "132",
+		"drugId": "38",
+		"tag": "Contraindications",
+		"note": " Atrioventricular conduction abnormalities, history of bone marrow depression, porphyria; history of sensitivity to tricyclic antidepressants, oxcarbazepine, or other structurally related drugs; use of MAO-Is within past 2 weeks; on antir"
+	},
+	{
+		"id": "133",
+		"drugId": "38",
+		"tag": "Counselling",
+		"note": " Take with food to help prevent  stomach  upset. This medicine may cause drowsiness, dizziness, or blurred vision, especially at the start of treatment or when the dose is increased. If affected, do not drive or operate machinery. May increase "
+	},
+	{
+		"id": "134",
+		"drugId": "38",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Avoid in pregnancy.  May be used in breastfeeding (monitor infant for drowsiness)."
+	},
+	{
+		"id": "135",
+		"drugId": "38",
+		"tag": "Use with caution",
+		"note": " In hepatic impairment, renal impairment, cardiac disease, skin reactions, history of blood disorders, glaucoma, elderly. Monitor blood counts before and during treatment. Avoid sudden withdrawal. Prone to multiple drug interactions. Monit"
+	},
+	{
+		"id": "136",
+		"drugId": "39",
+		"tag": "Contraindications",
+		"note": "Cephalosporin  hypersensitivity"
+	},
+	{
+		"id": "137",
+		"drugId": "39",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "138",
+		"drugId": "39",
+		"tag": "Use with caution",
+		"note": "In sensitivities to beta-lactam antibacterials (avoid if history of immediate hypersensitivity reaction); renal impairment Note: Can cause false positive urinary glucose (if tested for reducing substances) and false positive Coombs’ test."
+	},
+	{
+		"id": "139",
+		"drugId": "40",
+		"tag": "Administration",
+		"note": "Incompatible with calcium; do not give via calcium-containing solutions. Divide IM dose over 1 g between 2 sites."
+	},
+	{
+		"id": "140",
+		"drugId": "40",
+		"tag": "Contraindications",
+		"note": " Cephalosporin  hypersensitivity (anaphylaxis, hives), porphyria, hypoalbuminaemia or impaired bilirubin binding"
+	},
+	{
+		"id": "141",
+		"drugId": "40",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe in both pregnancy and breastfeeding (monitor infant for side-effects)"
+	},
+	{
+		"id": "142",
+		"drugId": "40",
+		"tag": "Use with caution",
+		"note": " In history of allergy to beta-lactams (minor rash), pre-existing gallbladder disease"
+	},
+	{
+		"id": "143",
+		"drugId": "41",
+		"tag": "Administration",
+		"note": "Improve palatability by chilling. It may be easier for some patients to take it in a covered container with a large straw or with eyes shut."
+	},
+	{
+		"id": "144",
+		"drugId": "41",
+		"tag": "Contraindications",
+		"note": " Poisoning by hydrocarbons, with high potential for harm if aspirated; poisoning by corrosive substances – may prevent visualization of lesions caused by poison"
+	},
+	{
+		"id": "145",
+		"drugId": "41",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe in both pregnancy and breastfeeding"
+	},
+	{
+		"id": "146",
+		"drugId": "41",
+		"tag": "Use with caution",
+		"note": " In drowsy or unconscious  patients – risk of aspiration (intubate via nasogastric or gastric tube before administration) Not effective for poisoning with alkalis, acids, heavy metals, iron, lithium, toxic alcohols, glycols, or hydrocarbon"
+	},
+	{
+		"id": "147",
+		"drugId": "42",
+		"tag": "Breastfeeding",
+		"note": "Not recommended with systemic use"
+	},
+	{
+		"id": "148",
+		"drugId": "42",
+		"tag": "Counselling",
+		"note": " Tell your doctor  if you get pale skin, sore throat, fever, tiredness or weakness, or unusual bleeding or bruising in the months after you stop taking the medicine."
+	},
+	{
+		"id": "149",
+		"drugId": "42",
+		"tag": "Pregnancy",
+		"note": "Use with caution  in pregnancy;  risk of neonatal “grey syndrome” with high doses close to term."
+	},
+	{
+		"id": "150",
+		"drugId": "42",
+		"tag": "Use with caution",
+		"note": "In porphyria reduce high doses as soon as clinically indicated; avoid repeated courses and prolonged use. Reduce dose in hepatic and severe renal impairment. Blood counts required before and during treatment. Plasma concentration monitori"
+	},
+	{
+		"id": "151",
+		"drugId": "43",
+		"tag": "Contraindications",
+		"note": "Chloramphenicol hypersensitivity Maximum duration of use: 7 days; prolonged use may lead to overgrowth of non-susceptible organisms"
+	},
+	{
+		"id": "152",
+		"drugId": "43",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "153",
+		"drugId": "44",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "May be used in pregnancy  and breastfeeding. Systemic absorption likely to be minimal with topical use."
+	},
+	{
+		"id": "154",
+		"drugId": "44",
+		"tag": "Use with caution",
+		"note": " Not for use in body cavities.  Avoid contact with middle ear, eyes, brain and meninges."
+	},
+	{
+		"id": "155",
+		"drugId": "45",
+		"tag": "Breastfeeding",
+		"note": "Use with caution."
+	},
+	{
+		"id": "156",
+		"drugId": "45",
+		"tag": "Counselling",
+		"note": " Take with food to minimize nausea and vomiting. If part or all of a dose is vomited, the same amount should be taken again immediately."
+	},
+	{
+		"id": "157",
+		"drugId": "45",
+		"tag": "Pregnancy",
+		"note": "Benefit exceeds risk when indicated for treatment of acute malaria."
+	},
+	{
+		"id": "158",
+		"drugId": "45",
+		"tag": "Use with caution",
+		"note": " In hepatic  and renal impairment, neurological disorders (avoid for prophylaxis if epilepsy history), severe gastrointestinal disorders, G6PD deficiency, pre-existing auditory damage, elderly. May exacerbate psoriasis or myasthenia gravis"
+	},
+	{
+		"id": "159",
+		"drugId": "46",
+		"tag": "Counselling",
+		"note": "Drowsiness may impair ability to perform skilled tasks such as operating machinery or driving. Drowsiness may diminish after a few days of treatment."
+	},
+	{
+		"id": "160",
+		"drugId": "46",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "May be used at recommended doses in pregnancy and breastfeeding (monitor infant for drowsiness)."
+	},
+	{
+		"id": "161",
+		"drugId": "46",
+		"tag": "Use with caution",
+		"note": " In the elderly; may cause a paradoxical stimulation. Also, use with caution in prostate enlargement, urinary retention, ileus or pyloroduodenal obstruction, glaucoma, renal impairment, hepatic impairment, epilepsy."
+	},
+	{
+		"id": "162",
+		"drugId": "47",
+		"tag": "Administration",
+		"note": " Avoid skin contact  with injection  solution or oral liquid, as there is a risk of contact dermatitis. Oral hygiene is very important with regular use of oral liquid."
+	},
+	{
+		"id": "163",
+		"drugId": "47",
+		"tag": "Breastfeeding",
+		"note": "Use caution  (monitor infant for drowsiness)."
+	},
+	{
+		"id": "164",
+		"drugId": "47",
+		"tag": "Contraindications",
+		"note": " CNS depression/impaired consciousness; bone marrow depression; phaeochromocytoma, porphyria, basal ganglia disease, parkinsonism"
+	},
+	{
+		"id": "165",
+		"drugId": "47",
+		"tag": "Counselling",
+		"note": " Warn patients that this medication may impair ability to perform skilled tasks such as operating machinery or driving. If taking liquid form, daily oral hygiene is very important."
+	},
+	{
+		"id": "166",
+		"drugId": "47",
+		"tag": "Pregnancy",
+		"note": " Use, with caution,  in pregnancy,  if benefit is greater than risk."
+	},
+	{
+		"id": "167",
+		"drugId": "47",
+		"tag": "Use with caution",
+		"note": " In cardiovascular and cerebrovascular disorders, dementia, respiratory disease, epilepsy, acute infections, renal and hepatic impairment (avoid if severe), history of jaundice, leukopenia (blood count required if unexplained fever or Infe"
+	},
+	{
+		"id": "168",
+		"drugId": "48",
+		"tag": "Administration",
+		"note": "Give IV infusion  over at least 60 minutes."
+	},
+	{
+		"id": "169",
+		"drugId": "48",
+		"tag": "Contraindications",
+		"note": "History of quinolone-associated tendon disorder"
+	},
+	{
+		"id": "170",
+		"drugId": "48",
+		"tag": "Counselling",
+		"note": " Oral: Take 1 hour before  or 2 hours after meals. Drink plenty of fluids while taking it. Dairy products; antacids; and iron, zinc, or calcium supplements may reduce absorption; do not take within 2 hours of a ciprofloxacin  dose. This medicat"
+	},
+	{
+		"id": "171",
+		"drugId": "48",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Contraindicated in pregnancy and breastfeeding due to theoretical risk of injury to developing cartilage; consider alternatives where possible; use only if no available alternatives and benefit is greater than risk."
+	},
+	{
+		"id": "172",
+		"drugId": "48",
+		"tag": "Use with caution",
+		"note": " In elderly patients and those on corticosteroids (higher risk of tendonitis/rupture); in history of epilepsy or seizure, renal impairment, G6PD deficiency, myasthenia gravis (risk of exacerbation). Prone to multiple drug interactions. If "
+	},
+	{
+		"id": "173",
+		"drugId": "49",
+		"tag": "Breastfeeding",
+		"note": "Caution in breastfeeding (monitor infant for side-effects)"
+	},
+	{
+		"id": "174",
+		"drugId": "49",
+		"tag": "Contraindications",
+		"note": "Sensitivity to macrolide antibiotics. Known interactions with many drugs."
+	},
+	{
+		"id": "175",
+		"drugId": "49",
+		"tag": "Counselling",
+		"note": " Before starting or stopping any other medicines, tell your doctor that you are taking this medication."
+	},
+	{
+		"id": "176",
+		"drugId": "49",
+		"tag": "Pregnancy",
+		"note": "Use alternative macrolides in pregnancy where possible."
+	},
+	{
+		"id": "177",
+		"drugId": "49",
+		"tag": "Use with caution",
+		"note": "In renal impairment"
+	},
+	{
+		"id": "178",
+		"drugId": "50",
+		"tag": "Administration",
+		"note": "Dilute in glucose 5% or normal saline to concentration not more than 12 mg/ml and infuse slowly  (not more than 30 mg/minute)  to reduce  risk of adverse  cardiac effects. Single doses over 600 mg by intravenous infusion only and should  no"
+	},
+	{
+		"id": "179",
+		"drugId": "50",
+		"tag": "Breastfeeding",
+		"note": "Unknown  safety; amount in milk probably  too small to be harmful. Discontinue immediately if diarrhoea or colitis develops."
+	},
+	{
+		"id": "180",
+		"drugId": "50",
+		"tag": "Contraindications",
+		"note": " Diarrhoeal  states, porphyria"
+	},
+	{
+		"id": "181",
+		"drugId": "50",
+		"tag": "Counselling",
+		"note": "Take with a full glass of water.  Stop taking this medication and tell your doctor immediately if you develop diarrhoea."
+	},
+	{
+		"id": "182",
+		"drugId": "50",
+		"tag": "Pregnancy",
+		"note": "Not known to be harmful"
+	},
+	{
+		"id": "183",
+		"drugId": "50",
+		"tag": "Use with caution",
+		"note": "In hepatic  impairment. Monitor liver function during prolonged therapy."
+	},
+	{
+		"id": "184",
+		"drugId": "51",
+		"tag": "Counselling",
+		"note": " Noticeable improvement usually seen in 6 weeks; however,  8–12 weeks of treatment may be required before maximum benefit is seen. Before applying, wash affected area with a mild soap and warm water, rinse thoroughly, and pat dry. Avoid contact"
+	},
+	{
+		"id": "185",
+		"drugId": "51",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "186",
+		"drugId": "52",
+		"tag": "Breastfeeding",
+		"note": "May cause reversible skin discoloration in nursing infants"
+	},
+	{
+		"id": "187",
+		"drugId": "52",
+		"tag": "Counselling",
+		"note": " This medication is absorbed best if taken with food. Your skin may become pink to brownish-black  while you are taking this medicine, but this is reversible. Avoid exposure to sunlight. Tears and urine may turn reddish-brown."
+	},
+	{
+		"id": "188",
+		"drugId": "52",
+		"tag": "Pregnancy",
+		"note": "No information"
+	},
+	{
+		"id": "189",
+		"drugId": "52",
+		"tag": "Use with caution",
+		"note": "In liver and renal impairment and pre existing GI symptoms"
+	},
+	{
+		"id": "190",
+		"drugId": "53",
+		"tag": "Breastfeeding",
+		"note": "Caution in breastfeeding (monitor infant for drowsiness)"
+	},
+	{
+		"id": "191",
+		"drugId": "53",
+		"tag": "Contraindications",
+		"note": "See amitriptyline."
+	},
+	{
+		"id": "192",
+		"drugId": "53",
+		"tag": "Pregnancy",
+		"note": " Use, with caution,  in pregnancy  if clinically indicated and drug of choice."
+	},
+	{
+		"id": "193",
+		"drugId": "54",
+		"tag": "Contraindications",
+		"note": "Known severe hypersensitivity to penicillins or other beta-lactams"
+	},
+	{
+		"id": "194",
+		"drugId": "54",
+		"tag": "Counselling",
+		"note": "This medicine  is absorbed  best if taken on an empty stomach at least half an hour before food or 2 hours after food."
+	},
+	{
+		"id": "195",
+		"drugId": "54",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe in both pregnancy and breastfeeding (monitor infant for side-effects)"
+	},
+	{
+		"id": "196",
+		"drugId": "54",
+		"tag": "Use with caution",
+		"note": " In patients with history of mild hypersensitivity to beta-lactams, renal/hepatic impairment"
+	},
+	{
+		"id": "197",
+		"drugId": "55",
+		"tag": "Administration",
+		"note": " Skin protection possibly required to reduce photosensitivity reactions. Bathing can be alternated with exposure to ultraviolet (UVB) rays, allowing at least 24 hours between exposure and treatment with coal tar."
+	},
+	{
+		"id": "198",
+		"drugId": "55",
+		"tag": "Contraindications",
+		"note": " inflamed, broken or infected  skin. May be used with salicylic acid in psoriasis"
+	},
+	{
+		"id": "199",
+		"drugId": "56",
+		"tag": "Contraindications",
+		"note": "Conditions where inhibition  of peristalsis should be avoided; abdominal distension; acute diarrhoeal conditions such as ulcerative colitis or antibiotic-associated colitis; acute respiratory depression"
+	},
+	{
+		"id": "200",
+		"drugId": "56",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe at recommended doses in both pregnancy and breastfeeding"
+	},
+	{
+		"id": "201",
+		"drugId": "56",
+		"tag": "Use with caution",
+		"note": " With prolonged  use, tolerance  or dependence may occur in elderly and debilitated patients and patients with hepatic or renal impairment. 6–10% of Caucasians  and 1-2% of Asians lack the enzyme CYP2D6 (necessary to metabolise codeine to "
+	},
+	{
+		"id": "202",
+		"drugId": "57",
+		"tag": "Administration",
+		"note": " IV: Dilute each 5 ml in 100–125 ml fluid, preferably  glucose 5%, and infuse over 60–90 minutes. Maintain adequate fluid intake."
+	},
+	{
+		"id": "203",
+		"drugId": "57",
+		"tag": "Contraindications",
+		"note": "Severe renal or hepatic  impairment; previous severe reactions to sulfa-containing drugs."
+	},
+	{
+		"id": "204",
+		"drugId": "57",
+		"tag": "Counselling",
+		"note": " Take this medicine with food to reduce stomach upset. Tell your doctor if you get a sore throat, fever, troublesome rash, cough, difficulty breathing, joint pain, dark urine, or pale stools. If taking prolonged high dose treatment: Drink a lot"
+	},
+	{
+		"id": "205",
+		"drugId": "57",
+		"tag": "Pregnancy",
+		"note": " Avoid in first trimester.  However,  if a pregnant woman with HIV requires cotrimoxazole prophylaxis, it should be started regardless of the stage of pregnancy. Pregnant women in malarial areas who are taking cotrimoxazole should not be given su"
+	},
+	{
+		"id": "206",
+		"drugId": "57",
+		"tag": "Use with caution",
+		"note": " In predisposition to folate deficiency, patients with a sulfa allergy, elderly, and G6PD deficiency. See Section  13.3 for response to rash. Discontinue immediately if anaemia or new jaundice appears. Renal dose adjustment required. Avoid"
+	},
+	{
+		"id": "207",
+		"drugId": "58",
+		"tag": "Administration",
+		"note": " Obtain full blood count before starting treatment; then again each week for the first month, and then each month during treatment."
+	},
+	{
+		"id": "208",
+		"drugId": "58",
+		"tag": "Breastfeeding",
+		"note": " Continue breastfeeding, monitor infant for jaundice."
+	},
+	{
+		"id": "209",
+		"drugId": "58",
+		"tag": "Counselling",
+		"note": "Take dapsone with food to reduce stomach upsets. Stop medication and inform your doctor if troublesome rash occurs."
+	},
+	{
+		"id": "210",
+		"drugId": "58",
+		"tag": "Pregnancy",
+		"note": "Third trimester  use can result in neonatal haemolysis and methaemoglobinaemia; folic acid 5 mg daily should be given to mother."
+	},
+	{
+		"id": "211",
+		"drugId": "58",
+		"tag": "Use with caution",
+		"note": " In anaemia, susceptibility to haemolysis"
+	},
+	{
+		"id": "212",
+		"drugId": "59",
+		"tag": "Administration",
+		"note": "Perform eye and ear examinations before treatment and at 3-month intervals during treatment."
+	},
+	{
+		"id": "213",
+		"drugId": "59",
+		"tag": "Breastfeeding",
+		"note": " Caution in breastfeeding; not recommended, but low oral bioavailability so unlikely to cause adverse effects"
+	},
+	{
+		"id": "214",
+		"drugId": "59",
+		"tag": "Pregnancy",
+		"note": "Use only if benefit greater than risk (risk of teratogenicity)."
+	},
+	{
+		"id": "215",
+		"drugId": "59",
+		"tag": "Use with caution",
+		"note": " In renal impairment,  aluminium encephalopathy (may exacerbate neurological dysfunction)"
+	},
+	{
+		"id": "216",
+		"drugId": "60",
+		"tag": "Administration",
+		"note": " Monitor  weight,  blood pressure,  fluid and electrolyte balance, and blood glucose throughout prolonged treatment."
+	},
+	{
+		"id": "217",
+		"drugId": "60",
+		"tag": "Breastfeeding",
+		"note": "Caution in breastfeeding; prednisolone preferred"
+	},
+	{
+		"id": "218",
+		"drugId": "60",
+		"tag": "Contraindications",
+		"note": "Systemic infection (unless life-threatening or specific antimicrobial therapy given); avoid live virus vaccines in those receiving immunosuppressive doses."
+	},
+	{
+		"id": "219",
+		"drugId": "60",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Use in pregnancy  only if drug of choice and benefit greater than risk (risk of intrauterine growth retardation); unlikely to be harmful at low doses (<40 mg daily prednisolone equivalent)"
+	},
+	{
+		"id": "220",
+		"drugId": "60",
+		"tag": "Use with caution",
+		"note": " In patients with infections (symptoms may be masked until advanced stage; clinical presentation may be atypical); can activate or exacerbate TB, amoebiasis, strongyloidiasis; in the elderly and adolescents, hypertension, recent myocardial"
+	},
+	{
+		"id": "221",
+		"drugId": "61",
+		"tag": "Breastfeeding",
+		"note": "Use with caution;  short-acting benzodiazepines preferred if needed. Adverse effects possible (monitor infant for drowsiness and poor feeding)"
+	},
+	{
+		"id": "222",
+		"drugId": "61",
+		"tag": "Contraindications",
+		"note": " Respiratory disease, acute pulmonary insufficiency, sleep apnoea, severe hepatic impairment, myasthenia gravis, acute angle closure glaucoma"
+	},
+	{
+		"id": "223",
+		"drugId": "61",
+		"tag": "Counselling",
+		"note": "This medication may impair ability to perform skilled tasks such as operating machinery or driving."
+	},
+	{
+		"id": "224",
+		"drugId": "61",
+		"tag": "Pregnancy",
+		"note": " Avoid regular  use (use only if necessary, e.g. seizure control). Use minimum effective dose for shortest duration; associated with increased risk of cleft palate; withdrawal  symptoms in newborns have been reported"
+	},
+	{
+		"id": "225",
+		"drugId": "61",
+		"tag": "Use with caution",
+		"note": " In muscle weakness, history of alcohol or drug abuse, marked personality disorder, elderly or debilitated, porphyria, hepatic impairment (avoid if severe), renal impairment. Repeated use even in therapeutic doses can lead to a dependence "
+	},
+	{
+		"id": "226",
+		"drugId": "62",
+		"tag": "Contraindications",
+		"note": "Do not use with stavudine  (d4T)."
+	},
+	{
+		"id": "227",
+		"drugId": "62",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Lactic acidosis  with hepatic steatosis may be more frequent in pregnant women. Should be used during pregnancy only if there is NO alternative."
+	},
+	{
+		"id": "228",
+		"drugId": "62",
+		"tag": "Use with caution",
+		"note": "In renal or hepatic  impairment;  see dose adjustment in Section 11.31."
+	},
+	{
+		"id": "229",
+		"drugId": "63",
+		"tag": "Contraindications",
+		"note": " DEC should  not be used in areas  where onchocerciasis or loiasis is co-endemic, due to possible severe adverse reactions. Patients should be examined for co-infection  before using DEC."
+	},
+	{
+		"id": "230",
+		"drugId": "63",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Not for use in pregnancy"
+	},
+	{
+		"id": "231",
+		"drugId": "63",
+		"tag": "Use with caution",
+		"note": " In renal impairment,  cardiac  disorders"
+	},
+	{
+		"id": "232",
+		"drugId": "64",
+		"tag": "Administration",
+		"note": " Take with water  on an empty stomach. If a patient  vomits within  30 minutes  of taking drug, the whole dose should be re-administered; if a patient vomits within 30-60 minutes, half the dose should be re-administered."
+	},
+	{
+		"id": "233",
+		"drugId": "64",
+		"tag": "Pregnancy",
+		"note": "Not recommended in the first trimester of pregnancy"
+	},
+	{
+		"id": "234",
+		"drugId": "65",
+		"tag": "Breastfeeding",
+		"note": "Manufacturer advises to avoid."
+	},
+	{
+		"id": "235",
+		"drugId": "65",
+		"tag": "Pregnancy",
+		"note": "Defer treatment until after the first trimester."
+	},
+	{
+		"id": "236",
+		"drugId": "66",
+		"tag": "Administration",
+		"note": " Localize application to plaques by application in Lassar's paste (zinc paste 96%, salicylic acid 2%, liquid paraffin 2) or white soft paraffin to surrounding skin. Dithranol must be protected from light and should be supplied in appropriate"
+	},
+	{
+		"id": "237",
+		"drugId": "66",
+		"tag": "Contraindications",
+		"note": " hypersensitivity; avoid use on face, groin, acute eruptions, excessively inflamed areas."
+	},
+	{
+		"id": "238",
+		"drugId": "66",
+		"tag": "Counselling",
+		"note": "Wash hands thoroughly after use"
+	},
+	{
+		"id": "239",
+		"drugId": "66",
+		"tag": "Precautions",
+		"note": " irritant (avoid contact with eyes, mucous membranes and healthy skin)."
+	},
+	{
+		"id": "240",
+		"drugId": "67",
+		"tag": "Administration",
+		"note": "Dilute before use in glucose 5% or normal saline and infuse into a large vein. Do not add to sodium bicarbonate or other strongly alkaline solutions."
+	},
+	{
+		"id": "241",
+		"drugId": "67",
+		"tag": "Breastfeeding",
+		"note": "May be used at recommended doses if benefit is greater than risk; short half-life and rapidly destroyed in the GI tract."
+	},
+	{
+		"id": "242",
+		"drugId": "67",
+		"tag": "Contraindications",
+		"note": " Tachyarrhythmia, ventricular fibrillation, ischaemic heart disease, phaeochromocytoma, hyperthyroidism. Correct hypovolaemia before administration; maintain blood volume during treatment. Correct hypoxia before or at same time as startin"
+	},
+	{
+		"id": "243",
+		"drugId": "67",
+		"tag": "Pregnancy",
+		"note": "Use only if benefit is greater than risk and no alternatives are available."
+	},
+	{
+		"id": "244",
+		"drugId": "67",
+		"tag": "Use with caution",
+		"note": "If history of peripheral vascular disease"
+	},
+	{
+		"id": "245",
+		"drugId": "68",
+		"tag": "Counselling",
+		"note": " Advise patients  to take capsules  whole,  with plenty of fluid, while sitting or standing to prevent oesophageal irritation; may give with milk/food to counter gastric irritation. Avoid exposure to sunlight or sunlamps."
+	},
+	{
+		"id": "246",
+		"drugId": "68",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Not indicated  after week 8 due to effects on fetal bone growth and dental discolouration; short courses can be used if alternative not appropriate; implicated in causing maternal hepatotoxicity, especially in third trimester (dose"
+	},
+	{
+		"id": "247",
+		"drugId": "68",
+		"tag": "Use with caution",
+		"note": " In hepatic impairment, porphyria, systemic lupus erythematosus"
+	},
+	{
+		"id": "248",
+		"drugId": "69",
+		"tag": "Administration",
+		"note": " Take at bedtime on an empty stomach. Suggested substitution if not tolerated: NVP, or bPI if neither NNRTI is tolerated; or triple NRTI if no other options"
+	},
+	{
+		"id": "249",
+		"drugId": "69",
+		"tag": "Contraindications",
+		"note": "History of severe psychiatric illness"
+	},
+	{
+		"id": "250",
+		"drugId": "69",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Potential risk of teratogenicity in first trimester. Safe after first trimester. Provide effective contraceptives after delivery. Discuss risk and benefit of using EFV with women who are planning to become pregnant or who may becom"
+	},
+	{
+		"id": "251",
+		"drugId": "69",
+		"tag": "Use with caution",
+		"note": " In hepatic  impairment (avoid if severe), severe renal impairment, elderly, history of mental illness or substance abuse. Rash usually resolves within 3-5 days, but discontinue ART and monitor AST or ALT if rash severe or if accompanied b"
+	},
+	{
+		"id": "252",
+		"drugId": "70",
+		"tag": "Administration",
+		"note": "Monitor  blood count for bone marrow suppression."
+	},
+	{
+		"id": "253",
+		"drugId": "70",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Contraindicated in pregnancy and breastfeeding"
+	},
+	{
+		"id": "254",
+		"drugId": "70",
+		"tag": "Use with caution",
+		"note": "In renal impairment hospitalize and supervise closely during treatment."
+	},
+	{
+		"id": "255",
+		"drugId": "71",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "There is limited experience  with use during pregnancy."
+	},
+	{
+		"id": "256",
+		"drugId": "71",
+		"tag": "Use with caution",
+		"note": " In renal impairment,  hepatic  disease Active against HBV (see Section 11.14)"
+	},
+	{
+		"id": "257",
+		"drugId": "72",
+		"tag": "Administration",
+		"note": " When starting, stop diuretics for 24 hours and start with a low dose at bedtime. Check renal function and electrolytes before starting."
+	},
+	{
+		"id": "258",
+		"drugId": "72",
+		"tag": "Breastfeeding",
+		"note": "Amount excreted  probably  too small to be harmful."
+	},
+	{
+		"id": "259",
+		"drugId": "72",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity to ACE inhibitors (including angioedema)"
+	},
+	{
+		"id": "260",
+		"drugId": "72",
+		"tag": "Counselling",
+		"note": " While  taking this medicine,  you may feel dizzy on standing. Get up gradually from sitting or lying to minimize this; sit or lie down if you feel dizzy. Do not take potassium supplements while you are taking this medicine unless prescribed by"
+	},
+	{
+		"id": "261",
+		"drugId": "72",
+		"tag": "Pregnancy",
+		"note": "Avoid in pregnancy."
+	},
+	{
+		"id": "262",
+		"drugId": "72",
+		"tag": "Use with caution",
+		"note": " In renal impairment,  peripheral vascular disease, aortic stenosis, hepatic impairment"
+	},
+	{
+		"id": "263",
+		"drugId": "73",
+		"tag": "Administration",
+		"note": "Intravenous epinephrine should be given only by those experienced in its use and in a setting where patients can be carefully monitored."
+	},
+	{
+		"id": "264",
+		"drugId": "73",
+		"tag": "Breastfeeding",
+		"note": " Caution in breastfeeding. Monitor infant for side-effects such as irritability, restlessness, tremor."
+	},
+	{
+		"id": "265",
+		"drugId": "73",
+		"tag": "Pregnancy",
+		"note": "May be used at the recommended doses"
+	},
+	{
+		"id": "266",
+		"drugId": "73",
+		"tag": "Use with caution",
+		"note": " In hyperthyroidism, hypertension, diabetes mellitus, heart disease, arrhythmias, cerebrovascular disease, second stage of labour, and the elderly"
+	},
+	{
+		"id": "267",
+		"drugId": "74",
+		"tag": "Breastfeeding",
+		"note": "Single dose post-partum compatible with breastfeeding; avoid prolonged or multiple dosing"
+	},
+	{
+		"id": "268",
+		"drugId": "74",
+		"tag": "Contraindications",
+		"note": " Vascular disease, severe cardiac disease (angina pectoris), severe hypertension, severe renal or hepatic impairment, sepsis, pre-eclampsia or eclampsia"
+	},
+	{
+		"id": "269",
+		"drugId": "74",
+		"tag": "Pregnancy",
+		"note": "Contraindicated at induction of labour or first and second stages of labour as can cause premature uterine contractions and decrease uterine blood flow (possible fetal hypoxia and death)"
+	},
+	{
+		"id": "270",
+		"drugId": "74",
+		"tag": "Use with caution",
+		"note": " In cardiac disease, hypertension, renal impairment, multiple pregnancy, porphyria"
+	},
+	{
+		"id": "271",
+		"drugId": "75",
+		"tag": "Administration",
+		"note": " Reconstitute  injection  with water  for injection only. Dilute further for administration. Parenteral erythromycin is an irritant and may cause thrombophlebitis. Infuse at a rate of 1-5 mg/ml over 60 minutes  or slower,  via a central vein"
+	},
+	{
+		"id": "272",
+		"drugId": "75",
+		"tag": "Contraindications",
+		"note": " Hypersensitivity to erythromycin or other macrolides, porphyria"
+	},
+	{
+		"id": "273",
+		"drugId": "75",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Not known to be harmful in pregnancy or breastfeeding"
+	},
+	{
+		"id": "274",
+		"drugId": "75",
+		"tag": "Use with caution",
+		"note": " In hepatic impairment, predisposition to QT interval prolongation (including electrolyte disturbances and concomitant use of drugs that prolong the QT interval). Prone to multiple drug interactions."
+	},
+	{
+		"id": "275",
+		"drugId": "76",
+		"tag": "Counselling",
+		"note": " Before applying, wash affected area with a mild soap and warm water, rinse thoroughly, and pat dry. Avoid contact with eyes, lips, and inside of your nose or mouth. Noticeable  improvement may be seen in 3–4 weeks. However,  6–12 weeks of trea"
+	},
+	{
+		"id": "276",
+		"drugId": "76",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "277",
+		"drugId": "77",
+		"tag": "Administration",
+		"note": "Ocular examination  recommended before and during treatment; patients should report visual disturbances immediately and discontinue treatment. Renal dose adjustment required."
+	},
+	{
+		"id": "278",
+		"drugId": "77",
+		"tag": "Contraindications",
+		"note": "History of optic neuritis  and severe renal impairment"
+	},
+	{
+		"id": "279",
+		"drugId": "77",
+		"tag": "Counselling",
+		"note": " If you see less clearly or colour vision is affected, stop the medication and tell your clinician."
+	},
+	{
+		"id": "280",
+		"drugId": "77",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Considered safe in both pregnancy and breastfeeding (monitor infant for side-effects, including jaundice)"
+	},
+	{
+		"id": "281",
+		"drugId": "77",
+		"tag": "Use with caution",
+		"note": " In elderly with ocular defects, renal impairment"
+	},
+	{
+		"id": "282",
+		"drugId": "78",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity to ethanol."
+	},
+	{
+		"id": "283",
+		"drugId": "78",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Judgement needed; however, fetus is more likely to be at risk from metabolic derangements from ethylene glycol/methanol poisoning than from ethanol as antidote. Avoid breastfeeding during ethanol treatment since ethanol passes into"
+	},
+	{
+		"id": "284",
+		"drugId": "78",
+		"tag": "Use with caution",
+		"note": " Causes CNS depression,  and effects  are additive with other CNS depressants, e.g. benzodiazepines. Increased risk of hypoglycaemia in those with alcohol dependence. In patients taking drugs that inhibit aldehyde dehydrogenase, e.g. disul"
+	},
+	{
+		"id": "285",
+		"drugId": "79",
+		"tag": "Administration",
+		"note": " If side-effects occur, the dose may be reduced; alternatively, another iron salt may be used, but an improvement in tolerance may simply be a result of a lower content of elemental iron. See Section 10.18.3 for monitoring, duration of treat"
+	},
+	{
+		"id": "286",
+		"drugId": "79",
+		"tag": "Contraindications",
+		"note": " Haemosiderosis, haemochromatosis; any form of anaemia not caused by iron deficiency; patients receiving repeated blood transfusions; parenteral iron therapy"
+	},
+	{
+		"id": "287",
+		"drugId": "79",
+		"tag": "Counselling",
+		"note": " Although iron preparations are best absorbed on an empty stomach, they may be taken after food to reduce gastrointestinal adverse effects. Keep out of children's reach."
+	},
+	{
+		"id": "288",
+		"drugId": "79",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "289",
+		"drugId": "80",
+		"tag": "Breastfeeding",
+		"note": "Safe in usual dosage for short-term treatment (monitor infant for side-effects)"
+	},
+	{
+		"id": "290",
+		"drugId": "80",
+		"tag": "Counselling",
+		"note": " Tell your doctor  if you feel unusually tired, nauseous, or are not eating, or if you notice dark urine, pale faeces, or yellowing of the white of your eyes or skin."
+	},
+	{
+		"id": "291",
+		"drugId": "80",
+		"tag": "Pregnancy",
+		"note": " Single dose unlikely to pose a risk to fetus, but avoid high dose or prolonged treatment."
+	},
+	{
+		"id": "292",
+		"drugId": "80",
+		"tag": "Use with caution",
+		"note": " In renal impairment,  sensitivity  to other azoles. Monitor liver function (discontinue if signs or symptoms of hepatic disease). Prone to multiple drug interactions. Renal dose adjustment required."
+	},
+	{
+		"id": "293",
+		"drugId": "81",
+		"tag": "Administration",
+		"note": " Monitor  liver function,  kidney function,  and blood counts when use with amphotericin B (check weekly in renal impairment or in blood disorders). Renal dose adjustment required."
+	},
+	{
+		"id": "294",
+		"drugId": "81",
+		"tag": "Breastfeeding",
+		"note": "Not recommended until more information available; use only if benefit greater than risk; consider alternatives."
+	},
+	{
+		"id": "295",
+		"drugId": "81",
+		"tag": "Counselling",
+		"note": "Take the capsule  with food."
+	},
+	{
+		"id": "296",
+		"drugId": "81",
+		"tag": "Pregnancy",
+		"note": "Avoid in pregnancy (teratogenic in animal studies); consider alternatives; use only if benefit greater than risk."
+	},
+	{
+		"id": "297",
+		"drugId": "81",
+		"tag": "Storage",
+		"note": "Keep at 15–25 0C (forms fluorouracil above 25 0C and can precipitate below 15 0C)."
+	},
+	{
+		"id": "298",
+		"drugId": "81",
+		"tag": "Use with caution",
+		"note": " In elderly, renal impairment,  pre-existing bone marrow suppression"
+	},
+	{
+		"id": "299",
+		"drugId": "82",
+		"tag": "Administration",
+		"note": " Although symptomatic relief may be apparent within the first 1–3 weeks, optimum antidepressant effect usually requires at least 4 weeks or more of therapy. Watch for agitation and suicidal ideation and behaviour (see Section  10.11). If his"
+	},
+	{
+		"id": "300",
+		"drugId": "82",
+		"tag": "Breastfeeding",
+		"note": " Not recommended;  long half-life,  may accumulate in breast milk; if required, use lowest effective dose."
+	},
+	{
+		"id": "301",
+		"drugId": "82",
+		"tag": "Contraindications",
+		"note": "In combination with MAO-Is"
+	},
+	{
+		"id": "302",
+		"drugId": "82",
+		"tag": "Pregnancy",
+		"note": " Use with caution; self-limiting withdrawal symptoms have been reported in newborns (e.g. distress, poor feeding, sleep disturbances)."
+	},
+	{
+		"id": "303",
+		"drugId": "82",
+		"tag": "Use with caution",
+		"note": " Renal or hepatic  failure (consider dose reduction), diabetes mellitus. Prone to multiple drug interactions."
+	},
+	{
+		"id": "304",
+		"drugId": "83",
+		"tag": "Breastfeeding",
+		"note": " Use, with caution,  if drug of choice (monitor infant for side-effects such as sedation)."
+	},
+	{
+		"id": "305",
+		"drugId": "83",
+		"tag": "Contraindications",
+		"note": "See chlorpromazine.  Use with caution"
+	},
+	{
+		"id": "306",
+		"drugId": "83",
+		"tag": "Counselling",
+		"note": "See chlorpromazine. Warn patients that this medication may impair ability to perform skilled tasks such as operating machinery or driving."
+	},
+	{
+		"id": "307",
+		"drugId": "83",
+		"tag": "Pregnancy",
+		"note": "Use with caution; monitor infant for reversible extrapyramidal side-effects."
+	},
+	{
+		"id": "308",
+		"drugId": "84",
+		"tag": "Contraindications",
+		"note": "Folate-dependent malignant disease Women receiving antiepileptic therapy need counselling before starting folic acid. Should never be given without vitamin B12 in undiagnosed megaloblastic anaemia or other vitamin B12 deficiency states d"
+	},
+	{
+		"id": "309",
+		"drugId": "84",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "May be used at recommended dose in pregnancy and breastfeeding"
+	},
+	{
+		"id": "310",
+		"drugId": "85",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Not recommended  during pregnancy or breastfeeding. Manufacturer advises use only if potential benefit outweighs risk. Use with caution and at lower doses if renal or hepatic impairment. Does not alter the CNS effects of drinking a"
+	},
+	{
+		"id": "311",
+		"drugId": "86",
+		"tag": "Administration",
+		"note": " Dose to be diluted in suitable amount of infusion fluid (saline or LR; glucose solutions are unsuitable), depending on hydration of patient, at rate not to exceed 4 mg/minute. Monitor electrolytes, particularly potassium and sodium. Correct"
+	},
+	{
+		"id": "312",
+		"drugId": "86",
+		"tag": "Breastfeeding",
+		"note": " Limited data. Not recommended; theoretically, may suppress lactation due to diuresis"
+	},
+	{
+		"id": "313",
+		"drugId": "86",
+		"tag": "Contraindications",
+		"note": " Anuria due to renal failure, precomatose states associated with liver cirrhosis, electrolyte depletion"
+	},
+	{
+		"id": "314",
+		"drugId": "86",
+		"tag": "Pregnancy",
+		"note": "Consider alternatives; loop diuretics not recommended unless absolutely necessary (e.g. cardiac failure). Neonatal ototoxicity has been reported."
+	},
+	{
+		"id": "315",
+		"drugId": "86",
+		"tag": "Use with caution",
+		"note": " In elderly (reduce dose), hypotensive patients, renal impairment, hepatic impairment, prostatic enlargement"
+	},
+	{
+		"id": "316",
+		"drugId": "87",
+		"tag": "Administration",
+		"note": " Renal dose adjustment  required. Avoid stopping abruptly, which may cause anxiety, insomnia, nausea, pain and sweating. Gradually reduce dose over at least 1 week."
+	},
+	{
+		"id": "317",
+		"drugId": "87",
+		"tag": "Breastfeeding",
+		"note": " Use, with caution, in breastfeeding; monitor infant for sedation and lethargy. Caution: Monitor for depression, suicidal ideation, unusual mood, behaviour change; mixed seizure disorder (including absence seizure); renal impairment; encephal"
+	},
+	{
+		"id": "318",
+		"drugId": "87",
+		"tag": "Counselling",
+		"note": " This medicine may cause drowsiness or dizziness. If affected, do not drive or operate heavy machinery."
+	},
+	{
+		"id": "319",
+		"drugId": "87",
+		"tag": "Pregnancy",
+		"note": " Use with extreme caution;  has been associated with fetal abnormalities such as hypospadias, unilateral renal agenesis."
+	},
+	{
+		"id": "320",
+		"drugId": "88",
+		"tag": "Administration",
+		"note": " To avoid phlebitis at the injection site (related to high pH of solution), administer in veins with good flow. Maintain adequate hydration. Monitor  blood counts 2–3 times per week."
+	},
+	{
+		"id": "321",
+		"drugId": "88",
+		"tag": "Contraindications",
+		"note": "Neutropenia (ANC <500) or thrombocytopenia (platelets <25 000); concurrent use with zidovudine"
+	},
+	{
+		"id": "322",
+		"drugId": "88",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Avoid during pregnancy  or breastfeeding unless need justifies the risk. To avoid pregnancy, advise use of an effective contraceptive."
+	},
+	{
+		"id": "323",
+		"drugId": "88",
+		"tag": "Use with caution",
+		"note": " Ganciclovir is toxic. Personnel should be adequately protected during handling and administration. If solution comes into contact with skin or mucosa, wash off immediately with soap and water. In patients with renal impairment, renal dose"
+	},
+	{
+		"id": "324",
+		"drugId": "89",
+		"tag": "Administration",
+		"note": "Renal dose adjustment  required. Can be dosed daily (4.5 mg/kg every 24 hours) or 1.5 mg/kg every 8 hours. The empirical antibiotic dose for emergency management of 240 mg (QC p. 19) represents the full daily dose for a 60 kg person."
+	},
+	{
+		"id": "325",
+		"drugId": "89",
+		"tag": "Breastfeeding",
+		"note": " May be used at recommended doses (monitor infant for thrush, diarrhoea)"
+	},
+	{
+		"id": "326",
+		"drugId": "89",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity to aminoglycoside group of antibiotics"
+	},
+	{
+		"id": "327",
+		"drugId": "89",
+		"tag": "Pregnancy",
+		"note": "Avoid unless essential  for serious infections; monitor levels to minimize potential for ototoxicity and nephrotoxicity."
+	},
+	{
+		"id": "328",
+		"drugId": "89",
+		"tag": "Use with caution",
+		"note": " In renal impairment, pre-existing tinnitus/ hearing loss, conditions with muscular weakness, obesity, the elderly (dosage adjustment required). Monitor renal, auditory, vestibular function, serum- gentamicin concentration. Avoid prolonged"
+	},
+	{
+		"id": "329",
+		"drugId": "90",
+		"tag": "Use with caution",
+		"note": " Prolonged use may lead to sensitization and emergence of resistant organisms including fungi; discontinue if there is purulent discharge, inflammation, exacerbation of pain."
+	},
+	{
+		"id": "330",
+		"drugId": "91",
+		"tag": "Breastfeeding",
+		"note": "Not recommended;  use only if benefit is greater than risk; consider alternatives."
+	},
+	{
+		"id": "331",
+		"drugId": "91",
+		"tag": "Contraindications",
+		"note": " Severe liver disease, porphyria, systemic lupus erythematosus"
+	},
+	{
+		"id": "332",
+		"drugId": "91",
+		"tag": "Counselling",
+		"note": " Take with milk or food. May impair ability  to perform skilled tasks such as operating machinery or driving. Avoid sun exposure. During treatment and for 4 weeks after, drinking alcohol may cause increased heart rate and skin flushing."
+	},
+	{
+		"id": "333",
+		"drugId": "91",
+		"tag": "Pregnancy",
+		"note": "Avoid pregnancy  during and for 1 month after treatment; men should not father children within 6 months of treatment. Consider alternative treatments."
+	},
+	{
+		"id": "334",
+		"drugId": "91",
+		"tag": "Use with caution",
+		"note": " In pre-existing hepatic insufficiency (closely monitor hepatic function throughout treatment), blood disorders (monitor blood count weekly during first month of treatment), penicillin allergy (cross-sensitivity may occur)"
+	},
+	{
+		"id": "335",
+		"drugId": "92",
+		"tag": "Administration",
+		"note": "Monitor  blood pressure  and maintain  supine position  for 30 minutes after intramuscular injection."
+	},
+	{
+		"id": "336",
+		"drugId": "92",
+		"tag": "Breastfeeding",
+		"note": "Caution in breastfeeding (monitor infant for drowsiness)"
+	},
+	{
+		"id": "337",
+		"drugId": "92",
+		"tag": "Contraindications",
+		"note": "See chlorpromazine.  Use with caution"
+	},
+	{
+		"id": "338",
+		"drugId": "92",
+		"tag": "Counselling",
+		"note": "This medication may impair your ability to perform skilled tasks such as operating machinery or driving."
+	},
+	{
+		"id": "339",
+		"drugId": "92",
+		"tag": "Pregnancy",
+		"note": " Use with caution and at lowest effective dose; reversible respiratory depression, extrapyramidal effects, difficulty feeding have been reported in newborn."
+	},
+	{
+		"id": "340",
+		"drugId": "93",
+		"tag": "Administration",
+		"note": "Renal dose adjustment  required."
+	},
+	{
+		"id": "341",
+		"drugId": "93",
+		"tag": "Breastfeeding",
+		"note": " Use, with caution,  if benefits are greater than risks; monitor infant for effects such as hypotension, bradycardia, fatigue."
+	},
+	{
+		"id": "342",
+		"drugId": "93",
+		"tag": "Contraindications",
+		"note": " Idiopathic systemic lupus erythematosus, severe tachycardia, high output heart failure, myocardial insufficiency due to mechanical obstruction, corpulmonale, dissecting aortic aneurysm, porphyria"
+	},
+	{
+		"id": "343",
+		"drugId": "93",
+		"tag": "Counselling",
+		"note": " This medicine  may cause dizziness, especially at the start of treatment. If affected, do not drive or operate heavy machinery."
+	},
+	{
+		"id": "344",
+		"drugId": "93",
+		"tag": "Pregnancy",
+		"note": " Use only in acute treatment of hypertensive emergencies; avoid large boluses, as fetal distress and arrhythmias have been reported."
+	},
+	{
+		"id": "345",
+		"drugId": "93",
+		"tag": "Use with caution",
+		"note": " In hepatic impairment, renal impairment, coronary artery disease, cerebrovascular disease. May provoke angina (avoid after myocardial infarction until stabilized)."
+	},
+	{
+		"id": "346",
+		"drugId": "94",
+		"tag": "Breastfeeding",
+		"note": "Use with caution but unlikely to suppress lactation."
+	},
+	{
+		"id": "347",
+		"drugId": "94",
+		"tag": "Contraindications",
+		"note": " Severe renal or severe hepatic impairment; hyponatraemia, hypercalcaemia, refractory hypokalaemia, symptomatic hyperuricaemia; Addison’s disease"
+	},
+	{
+		"id": "348",
+		"drugId": "94",
+		"tag": "Counselling",
+		"note": " Take the medicine  once daily in the morning. While taking this medicine, you may feel dizzy on standing. Get up gradually from sitting or lying to minimize this effect. Sit or lie down if you become dizzy."
+	},
+	{
+		"id": "349",
+		"drugId": "94",
+		"tag": "Pregnancy",
+		"note": "Avoid use; may cause electrolyte disturbances or neonatal thrombocytopenia. Reduction in maternal blood volume may diminish uteroplacental perfusion."
+	},
+	{
+		"id": "350",
+		"drugId": "94",
+		"tag": "Use with caution",
+		"note": "In elderly; electrolytes may need to be monitored with high doses; may aggravate diabetes mellitus and gout; may exacerbate systemic lupus erythematosus; porphyria"
+	},
+	{
+		"id": "351",
+		"drugId": "95",
+		"tag": "Breastfeeding",
+		"note": "May be used at recommended doses; caution with high parenteral/oral doses"
+	},
+	{
+		"id": "352",
+		"drugId": "95",
+		"tag": "Contraindications",
+		"note": " Not relevant  to emergency  use. For contraindications related to long-term use, see prednisolone."
+	},
+	{
+		"id": "353",
+		"drugId": "95",
+		"tag": "Pregnancy",
+		"note": "May be used at the recommended doses; caution in first trimester due to possibility of oral cleft; limited fetal exposure due to inactivation by placenta"
+	},
+	{
+		"id": "354",
+		"drugId": "96",
+		"tag": "Breastfeeding",
+		"note": "Wipe excess cream from nipple area before feeding."
+	},
+	{
+		"id": "355",
+		"drugId": "96",
+		"tag": "Contraindications",
+		"note": " Untreated skin infections, broken skin, rosacea, acne, perioral dermatitis. Occlusive dressings increase penetration into keratinized lesions. Treat secondary infection with an appropriate antimicrobial."
+	},
+	{
+		"id": "356",
+		"drugId": "96",
+		"tag": "Pregnancy",
+		"note": " Topical preparations unlikely to cause any adverse effects in pregnancy or breastfeeding, as systemic absorption is expected to be minimal."
+	},
+	{
+		"id": "357",
+		"drugId": "98",
+		"tag": "Counselling",
+		"note": "Take with or after food."
+	},
+	{
+		"id": "358",
+		"drugId": "98",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Avoid unless potential  benefit greater than risk; consider alternatives such as paracetamol or opioids; regular use in third trimester may cause closure of fetal ductus arteriosus in utero, possibly persistent pulmonary hypertensi"
+	},
+	{
+		"id": "359",
+		"drugId": "98",
+		"tag": "Use with caution",
+		"note": " /;In renal and hepatic  disorders, hypersensitivity, and in the elderly. Ibuprofen can reduce the antiplatelet activity of low-dose aspirin and potentially reduce or negate the cardioprotective effect."
+	},
+	{
+		"id": "360",
+		"drugId": "99",
+		"tag": "Breastfeeding",
+		"note": "May be used at recommended doses"
+	},
+	{
+		"id": "361",
+		"drugId": "99",
+		"tag": "Pregnancy",
+		"note": "Generally accepted as safe (insulin requirements should be assessed in each trimester)"
+	},
+	{
+		"id": "362",
+		"drugId": "99",
+		"tag": "Use with caution",
+		"note": " In renal impairment, hepatic impairment, hypokalaemia"
+	},
+	{
+		"id": "363",
+		"drugId": "100",
+		"tag": "Counselling",
+		"note": "Do not use for immediate relief of symptoms."
+	},
+	{
+		"id": "364",
+		"drugId": "100",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Safe in pregnancy."
+	},
+	{
+		"id": "365",
+		"drugId": "100",
+		"tag": "Use with caution",
+		"note": "In prostatic hypertrophy. Medical supervision with first dose due to risk of paradoxical bronchospasm."
+	},
+	{
+		"id": "366",
+		"drugId": "101",
+		"tag": "Administration",
+		"note": " Desirable  to give also pyridoxine  10 mg daily to prevent peripheral neuropathy in PLHIV. Defer IPT in the presence of active hepatitis (acute or chronic), regular and heavy alcohol consumption, and symptoms of peripheral neuropathy. Stop "
+	},
+	{
+		"id": "367",
+		"drugId": "102",
+		"tag": "Breastfeeding",
+		"note": " Use, with caution,  if benefit is greater than risk; monitor infant for side-effects."
+	},
+	{
+		"id": "368",
+		"drugId": "102",
+		"tag": "Contraindications",
+		"note": " Hypersensitivity to nitrates, hypotension, hypovolaemia, hypertrophic obstructive cardiomyopathy, aortic stenosis, cardiac tamponade, constrictive pericarditis, mitral stenosis; marked anaemia, head trauma, cerebral haemorrhage, angle-cl"
+	},
+	{
+		"id": "369",
+		"drugId": "102",
+		"tag": "Pregnancy",
+		"note": "Use with caution. Consider alternatives where possible; use minimum effective dose if required in acute situation."
+	},
+	{
+		"id": "370",
+		"drugId": "102",
+		"tag": "Use with caution",
+		"note": " In severe hepatic  or renal impairment, hypothyroidism, malnutrition, hypothermia, elderly, or recent MI. Prone to multiple significant drug interaction through CYP3A4 enzyme."
+	},
+	{
+		"id": "371",
+		"drugId": "103",
+		"tag": "Administration",
+		"note": "Prone to multiple significant drug interactions (many leading to severe cardiovascular compromise). (An alternative for candida oesophagitis is the itraconazole solution)."
+	},
+	{
+		"id": "372",
+		"drugId": "103",
+		"tag": "Breastfeeding",
+		"note": "Not recommended – effects unknown. Use fluconazole if available and indicated."
+	},
+	{
+		"id": "373",
+		"drugId": "103",
+		"tag": "Counselling",
+		"note": " Take capsule  with food for best absorption (oral solution should be taken on empty stomach). Do not take antacids within 2 hours of taking this medicine. Tell your doctor if you feel unusually tired or have loss of appetite, nausea, vomiting,"
+	},
+	{
+		"id": "374",
+		"drugId": "103",
+		"tag": "Pregnancy",
+		"note": "Contraindicated in first trimester; use in second or third trimesters only if drug of choice and no alternatives."
+	},
+	{
+		"id": "375",
+		"drugId": "103",
+		"tag": "Use with caution",
+		"note": " In patients with heart failure or risk factors for heart failure, pre-existing hearing loss, hypersensitivity to other azoles. Monitor liver enzymes in patients with liver disease."
+	},
+	{
+		"id": "376",
+		"drugId": "104",
+		"tag": "Contraindications",
+		"note": "Do not give ivermectin for onchocerciasis in loaiasis co-endemic areas."
+	},
+	{
+		"id": "377",
+		"drugId": "104",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Delay treatment until after delivery and infant is 1 week old. Administration/Counselling"
+	},
+	{
+		"id": "378",
+		"drugId": "105",
+		"tag": "Administration",
+		"note": " For intravenous injection, dilute 100 mg/ml strength to a concentration of not more than 50 mg/ml with dextrose  5% or sodium chloride  0.9% or water. Give IV slowly; rapid administration may result in respiratory depression and enhanced hy"
+	},
+	{
+		"id": "379",
+		"drugId": "105",
+		"tag": "Breastfeeding",
+		"note": "Limited data; avoid use."
+	},
+	{
+		"id": "380",
+		"drugId": "105",
+		"tag": "Contraindications",
+		"note": " Where elevation  of blood pressure would constitute a serious hazard, including eclampsia or pre-eclampsia, severe coronary or myocardial disease, cerebrovascular accident or cerebral trauma"
+	},
+	{
+		"id": "381",
+		"drugId": "105",
+		"tag": "Pregnancy",
+		"note": "Safe to use"
+	},
+	{
+		"id": "382",
+		"drugId": "105",
+		"tag": "Use with caution",
+		"note": " In increased cerebrospinal fluid pressure, predisposition to hallucinations or nightmares. Ketamine has abuse potential and can itself cause dependence."
+	},
+	{
+		"id": "383",
+		"drugId": "106",
+		"tag": "Administration",
+		"note": " May mix with fruit juice, water, or milk. Onset of action is 1–3 days."
+	},
+	{
+		"id": "384",
+		"drugId": "106",
+		"tag": "Breastfeeding",
+		"note": "Use caution."
+	},
+	{
+		"id": "385",
+		"drugId": "106",
+		"tag": "Pregnancy",
+		"note": "No evidence  of harm"
+	},
+	{
+		"id": "386",
+		"drugId": "106",
+		"tag": "Use with caution",
+		"note": " In patients with electrolyte imbalance, diabetes mellitus; solution contains galactose and lactose."
+	},
+	{
+		"id": "387",
+		"drugId": "107",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Favourable safety profile Active against HBV (see Section 11.14)"
+	},
+	{
+		"id": "388",
+		"drugId": "108",
+		"tag": "Administration",
+		"note": " The duration  of use of ECP is brief;  thus less clinical impact is expected in severe cardiovascular complications, angina, migraine, severe liver disease."
+	},
+	{
+		"id": "389",
+		"drugId": "108",
+		"tag": "Counselling",
+		"note": " If vomiting occurs within 2 hours after taking levonorgestrel, a replacement dose should be taken. An antiemetic can be taken one-half to one hour before the replacement dose. No protection against STI/HIV"
+	},
+	{
+		"id": "390",
+		"drugId": "108",
+		"tag": "Pregnancy",
+		"note": "No harm to fetus if pregnancy should occur Breastfeeding"
+	},
+	{
+		"id": "391",
+		"drugId": "109",
+		"tag": "Breastfeeding",
+		"note": "Amount too small to be harmful"
+	},
+	{
+		"id": "392",
+		"drugId": "109",
+		"tag": "Contraindications",
+		"note": " Adjacent skin infection, inflamed skin, severe anaemia, heart disease"
+	},
+	{
+		"id": "393",
+		"drugId": "109",
+		"tag": "Pregnancy",
+		"note": "Avoid in third trimester"
+	},
+	{
+		"id": "394",
+		"drugId": "109",
+		"tag": "Use with caution",
+		"note": " In CHF (lower dosage) and following cardiac surgery, bradycardia, hepatic impairment, severe respiratory depression, and in the elderly"
+	},
+	{
+		"id": "395",
+		"drugId": "110",
+		"tag": "Administration",
+		"note": "Possible increased bleeding episodes in patients with haemophilia Suggested substitute: ATV/r"
+	},
+	{
+		"id": "396",
+		"drugId": "110",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Continuation  of antiretroviral therapy throughout pregnancy is recommended; close monitoring of blood glucose recommended, as risk of pregnancy-related hyperglycaemia may be increased."
+	},
+	{
+		"id": "397",
+		"drugId": "110",
+		"tag": "Use with caution",
+		"note": "Close clinical and hepatic enzyme monitoring needed in patients taking ritonavir super- boosting."
+	},
+	{
+		"id": "398",
+		"drugId": "111",
+		"tag": "Administration",
+		"note": " For intravenous injection, dilute 1 part of magnesium sulfate injection  50% with at least 1.5 parts of water for injection. For intramuscular injection, mix magnesium sulfate injection 50% with 1 ml lidocaine  injection  2%. Monitor urine "
+	},
+	{
+		"id": "399",
+		"drugId": "111",
+		"tag": "Breastfeeding",
+		"note": "Mother treated with parenteral magnesium for pre-eclampsia can breastfeed."
+	},
+	{
+		"id": "400",
+		"drugId": "111",
+		"tag": "Contraindications",
+		"note": " Bradycardia or AV block, pre-existing hypermagnesaemia, renal insufficiency/failure"
+	},
+	{
+		"id": "401",
+		"drugId": "111",
+		"tag": "Pregnancy",
+		"note": "Safe for short-term use in third trimester (neonatal respiratory depression if excessive dose)"
+	},
+	{
+		"id": "402",
+		"drugId": "111",
+		"tag": "Use with caution",
+		"note": " In myasthenia  gravis, liver or renal impairment"
+	},
+	{
+		"id": "403",
+		"drugId": "112",
+		"tag": "Breastfeeding",
+		"note": "Safe to use"
+	},
+	{
+		"id": "404",
+		"drugId": "112",
+		"tag": "Counselling",
+		"note": "Avoid contact with eyes. Do not use on broken or secondarily infected skin. Use lotion no more than once a week for 3 consecutive weeks."
+	},
+	{
+		"id": "405",
+		"drugId": "112",
+		"tag": "Pregnancy",
+		"note": "Avoid use; permethrin preferred."
+	},
+	{
+		"id": "406",
+		"drugId": "113",
+		"tag": "Breastfeeding",
+		"note": " May be used; 2–10% of oral dose absorbed, and some excretion into breast milk expected."
+	},
+	{
+		"id": "407",
+		"drugId": "113",
+		"tag": "Counselling",
+		"note": "Take dose between meals."
+	},
+	{
+		"id": "408",
+		"drugId": "113",
+		"tag": "Pregnancy",
+		"note": "Contraindicated in first trimester; consider alternatives before using in second or third trimester."
+	},
+	{
+		"id": "409",
+		"drugId": "114",
+		"tag": "Administration",
+		"note": " If any of the above cautions is present, provide protein-rich diet throughout treatment and correct iron and other nutritional deficiencies. Monitor cardiac, renal and hepatic function. Successful treatment of mucocutaneous leishmaniasis ma"
+	},
+	{
+		"id": "410",
+		"drugId": "114",
+		"tag": "Breastfeeding",
+		"note": "Contraindicated"
+	},
+	{
+		"id": "411",
+		"drugId": "114",
+		"tag": "Contraindications",
+		"note": " Severe cardiac,  liver and kidney disorders. Use local therapy if lesion is close to the eyes, multiple (?3), large (>3 cm diameter), sporotrichoid forms, on the joint, super-infected, or produced by L. brazilensis, L. guyanensis, or L. "
+	},
+	{
+		"id": "412",
+		"drugId": "114",
+		"tag": "Pregnancy",
+		"note": "Uncertain safety"
+	},
+	{
+		"id": "413",
+		"drugId": "114",
+		"tag": "Use with caution",
+		"note": " The risk of serious, even fatal, toxicity  is increased in patients who concomitantly present with: cardiac disease (particularly arrhythmia), renal failure, liver disease, severe malnutrition, severely impaired general condition, advance"
+	},
+	{
+		"id": "414",
+		"drugId": "115",
+		"tag": "Administration",
+		"note": "Avoid extravasation–injection is very irritating. Patients should be supine and fast for at least 5 hours after injection."
+	},
+	{
+		"id": "415",
+		"drugId": "115",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Contraindicated in pregnancy"
+	},
+	{
+		"id": "416",
+		"drugId": "115",
+		"tag": "Use with caution",
+		"note": "Hospitalization  and close medical supervision (intensive care) required during treatment. Suspend treatment if reactive encephalopathy. Treat intercurrent infections such as pneumonia and malaria before treatment with melarsoprol. Use wi"
+	},
+	{
+		"id": "417",
+		"drugId": "116",
+		"tag": "Breastfeeding",
+		"note": "Monitor  adverse effects  such as sedation (no adverse effects reported with 20 mg/day or less); infant withdrawal reported with sudden cessation."
+	},
+	{
+		"id": "418",
+		"drugId": "116",
+		"tag": "Contraindications",
+		"note": " Acute bronchial asthma or hypercarbia, respiratory depression in absence of appropriate airway equipment, paralytic ileus Do not give to patients showing signs of intoxication from alcohol or depressant drugs (such as diazepam)."
+	},
+	{
+		"id": "419",
+		"drugId": "116",
+		"tag": "Counselling",
+		"note": "This medication may impair your ability to perform skilled tasks such as operating machinery and driving."
+	},
+	{
+		"id": "420",
+		"drugId": "116",
+		"tag": "Pregnancy",
+		"note": "May be used; not associated with birth defects; caution in third trimester as chronic use is associated with neonatal opioid withdrawal symptoms."
+	},
+	{
+		"id": "421",
+		"drugId": "116",
+		"tag": "Use with caution",
+		"note": " In patients with renal or hepatic impairment, hypothyroidism, convulsive disorders, decreased respiratory reserve as in asthma, hypotension, elderly, prostatic hyperplasia, adrenal insufficiency, head trauma. Prone to multiple drug intera"
+	},
+	{
+		"id": "422",
+		"drugId": "117",
+		"tag": "Contraindications",
+		"note": " Severe renal impairment, methaemoglobinaemia due to chlorate or induced by sodium nitrite in treatment of cyanide poisoning, G6PD deficiency (may cause haemolytic anaemia)"
+	},
+	{
+		"id": "423",
+		"drugId": "117",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Uncertain  safety in pregnancy  and breastfeeding. Use with caution."
+	},
+	{
+		"id": "424",
+		"drugId": "117",
+		"tag": "Use with caution",
+		"note": "Monitor blood methaemoglobin throughout treatment"
+	},
+	{
+		"id": "425",
+		"drugId": "118",
+		"tag": "Contraindications",
+		"note": " Gastrointestinal obstruction (often used to empty the stomach of blood prior to EGD); within 3–4 days after gastrointestinal surgery, convulsive disorders, phaeochromocytoma"
+	},
+	{
+		"id": "426",
+		"drugId": "118",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe in both pregnancy and breastfeeding (monitor infant for side-effects)"
+	},
+	{
+		"id": "427",
+		"drugId": "118",
+		"tag": "Use with caution",
+		"note": " In elderly, children,  and young adults; hepatic or renal impairment; Parkinson´s disease, epilepsy, depression, porphyria. May mask underlying disorders such as cerebral irritation. Renal dosage adjustment required."
+	},
+	{
+		"id": "428",
+		"drugId": "119",
+		"tag": "Administration",
+		"note": " Tablets should be swallowed whole with water, with or after food. IV: Give over 15–30 minutes."
+	},
+	{
+		"id": "429",
+		"drugId": "119",
+		"tag": "Breastfeeding",
+		"note": " May be used at usual doses, but avoid high single-dose therapy or else withhold feeds for 12–24 hours; monitor infant for side-effects; may cause temporary changes to milk taste."
+	},
+	{
+		"id": "430",
+		"drugId": "119",
+		"tag": "Contraindications",
+		"note": "Chronic alcohol  dependence  – disulfiram- like reaction with alcohol occurs."
+	},
+	{
+		"id": "431",
+		"drugId": "119",
+		"tag": "Counselling",
+		"note": "Take tablets with food to reduce stomach  upset. This medicine may make you feel dizzy or confused. Avoid driving if you are affected. Avoid alcohol during treatment, and for 24 hours after stopping the drug, to prevent nausea, vomiting, flushi"
+	},
+	{
+		"id": "432",
+		"drugId": "119",
+		"tag": "Precautions",
+		"note": "Hepatic disease. Prone to multiple drug interactions through CYP enzyme system. Check for interactions with current and new medications."
+	},
+	{
+		"id": "433",
+		"drugId": "119",
+		"tag": "Pregnancy",
+		"note": "May be used if drug of choice. Use has not been associated with increased risk of adverse outcomes."
+	},
+	{
+		"id": "434",
+		"drugId": "120",
+		"tag": "Breastfeeding",
+		"note": "Remove excess cream from nipple areas before feeding."
+	},
+	{
+		"id": "435",
+		"drugId": "120",
+		"tag": "Counselling",
+		"note": " Gum patch: Place rounded  side of tablet  on upper gum above an incisor tooth and hold upper lip firmly over the gum for 30 seconds  using a finger. If tablet detaches within 6 hours, replace with a new tablet. With each dose, alternate sides "
+	},
+	{
+		"id": "436",
+		"drugId": "120",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "May be used at recommended doses in pregnancy and breastfeeding."
+	},
+	{
+		"id": "437",
+		"drugId": "120",
+		"tag": "Use with caution",
+		"note": "Contact with eyes and mucous membranes should be avoided."
+	},
+	{
+		"id": "438",
+		"drugId": "121",
+		"tag": "Breastfeeding",
+		"note": "Present in milk; manufacturer advises avoiding breastfeeding for 24 hours after administration."
+	},
+	{
+		"id": "439",
+		"drugId": "121",
+		"tag": "Contraindications",
+		"note": "Marked neuromuscular respiratory weakness including unstable myasthenia gravis; severe respiratory depression; acute pulmonary insufficiency"
+	},
+	{
+		"id": "440",
+		"drugId": "121",
+		"tag": "Pregnancy",
+		"note": " Avoid use if possible. High doses during late pregnancy or labour may cause neonatal hypothermia, hypotonia, respiratory depression."
+	},
+	{
+		"id": "441",
+		"drugId": "121",
+		"tag": "Use with caution",
+		"note": "In cardiac  disease; respiratory  disease; myasthenia gravis. Midazolam is associated with profound sedation when high doses are given IV or when used with certain other drugs."
+	},
+	{
+		"id": "442",
+		"drugId": "122",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Do not use in pregnancy  or during breastfeeding and assure adequate contraception for women of childbearing age during treatment and for 3 months afterwards."
+	},
+	{
+		"id": "443",
+		"drugId": "123",
+		"tag": "Use with caution",
+		"note": " In conditions  where hypotension  might precipitate severe complications (cardiovascular or cerebral disease). See other sources for contraindications to use for induction of labour (such as placenta praevia, cephalopelvic distortion, his"
+	},
+	{
+		"id": "444",
+		"drugId": "124",
+		"tag": "Administration",
+		"note": "SC dosing not suitable for oedematous patients. Sustained-release tablets should be taken at regular intervals and not on an as-needed basis for episodic or breakthrough pain. Tablets can be crushed"
+	},
+	{
+		"id": "445",
+		"drugId": "124",
+		"tag": "Breastfeeding",
+		"note": "Use caution;  monitor adverse effects  such as sedation; therapeutic concentrations in breastfeeding infant may be reached with repeated dosing or long-term use."
+	},
+	{
+		"id": "446",
+		"drugId": "124",
+		"tag": "Contraindications",
+		"note": " Acute respiratory depression, acute alcoholism, risk of paralytic ileus, raised intracranial pressure or head injury (affects pupillary responses vital for neurological assessment), injection in phaeochromocytoma"
+	},
+	{
+		"id": "447",
+		"drugId": "124",
+		"tag": "Pregnancy",
+		"note": "May be used if drug of choice. Not associated with birth defects; high doses or prolonged use near term can cause neonatal respiratory depression and withdrawal symptoms."
+	},
+	{
+		"id": "448",
+		"drugId": "124",
+		"tag": "Use with caution",
+		"note": " In renal and hepatic  impairment, dependence (severe withdrawal  symptoms if withdrawn abruptly), hypothyroidism, convulsive disorders, decreased respiratory reserve and acute asthma, hypotension, prostatic hypertrophy. Reduce dose or avo"
+	},
+	{
+		"id": "449",
+		"drugId": "125",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Safe in pregnancy  and breastfeeding"
+	},
+	{
+		"id": "450",
+		"drugId": "125",
+		"tag": "Use with caution",
+		"note": "Avoid contact  with eyes and mouth."
+	},
+	{
+		"id": "451",
+		"drugId": "126",
+		"tag": "Administration",
+		"note": "Naloxone  effects  last only 40 minutes."
+	},
+	{
+		"id": "452",
+		"drugId": "126",
+		"tag": "Breastfeeding",
+		"note": "Unknown safety; currently not recommended."
+	},
+	{
+		"id": "453",
+		"drugId": "126",
+		"tag": "Pregnancy",
+		"note": "Use only if potential benefit is greater than risk; may precipitate withdrawal in fetus of an opioid dependant mother"
+	},
+	{
+		"id": "454",
+		"drugId": "126",
+		"tag": "Use with caution",
+		"note": " In physical dependence on opioids, other situations where acute withdrawal syndrome may be precipitated; cardiovascular disease"
+	},
+	{
+		"id": "455",
+		"drugId": "127",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Not recommended  during pregnancy or breastfeeding"
+	},
+	{
+		"id": "456",
+		"drugId": "127",
+		"tag": "Use with caution",
+		"note": " In individuals  with hepatic  and renal impairment. If feasible, liver function tests should be routinely carried out. No ingestion of other opioid drugs for previous 5 days. Will block effects of other opioid drugs (if analgesia required"
+	},
+	{
+		"id": "457",
+		"drugId": "128",
+		"tag": "Breastfeeding",
+		"note": "May be used in breastfeeding  (monitor infant for adverse effects)"
+	},
+	{
+		"id": "458",
+		"drugId": "128",
+		"tag": "Pregnancy",
+		"note": " Use with caution; no reports of malformation, but neonatal myasthenia gravis and bradycardia are possible in newborns exposed during pregnancy."
+	},
+	{
+		"id": "459",
+		"drugId": "128",
+		"tag": "Use with caution",
+		"note": " In asthma, urinary and intestinal  surgery, infection"
+	},
+	{
+		"id": "460",
+		"drugId": "129",
+		"tag": "Contraindications",
+		"note": " Severe hepatic  failure, pregnancy  with CD4 >350"
+	},
+	{
+		"id": "461",
+		"drugId": "129",
+		"tag": "Counselling",
+		"note": "Advise patients  about the signs or symptoms of hypersensitivity reactions. Seek immediate medical attention if such symptoms develop."
+	},
+	{
+		"id": "462",
+		"drugId": "129",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Avoid using in pregnant women with  CD4 count  >350. In women  with  CD4 count  of 250–350 increased risks of maternal hepatotoxicity; use, with close monitoring, as benefit exceeds risk in those who require ART."
+	},
+	{
+		"id": "463",
+		"drugId": "129",
+		"tag": "Use with caution",
+		"note": "In hepatic  impairment or history of chronic hepatitis; monitor liver function."
+	},
+	{
+		"id": "464",
+		"drugId": "130",
+		"tag": "Breastfeeding",
+		"note": "Unknown safety in breastfeeding; not currently recommended; use only if potential benefit is greater than risk."
+	},
+	{
+		"id": "465",
+		"drugId": "130",
+		"tag": "Contraindications",
+		"note": "Psychiatric or neurological disorders"
+	},
+	{
+		"id": "466",
+		"drugId": "130",
+		"tag": "Counselling",
+		"note": "Take after meals."
+	},
+	{
+		"id": "467",
+		"drugId": "130",
+		"tag": "Pregnancy",
+		"note": " Uncertain safety in pregnancy, no human data; animal studies have not shown evidence of birth defects."
+	},
+	{
+		"id": "468",
+		"drugId": "131",
+		"tag": "Breastfeeding",
+		"note": "May be used at recommended dose except with neonates and infants who are G6PD-deficient; monitor infants for adverse effects."
+	},
+	{
+		"id": "469",
+		"drugId": "131",
+		"tag": "Contraindications",
+		"note": " Impaired  renal function,  G6PD deficiency, porphyria"
+	},
+	{
+		"id": "470",
+		"drugId": "131",
+		"tag": "Counselling",
+		"note": "Take with food or milk to reduce nausea and improve absorption. This drug can make your urine a brownish colour."
+	},
+	{
+		"id": "471",
+		"drugId": "131",
+		"tag": "Pregnancy",
+		"note": " May be used at recommended doses. Due to risk of fetal haemolysis, avoid use at or near term in patients with G6PD deficiency."
+	},
+	{
+		"id": "472",
+		"drugId": "131",
+		"tag": "Use with caution",
+		"note": " In pulmonary disorders or hepatic impairment, neurological or allergic disorders, anaemia, diabetes mellitus, elderly and debilitated, vitamin B and folate deficiency"
+	},
+	{
+		"id": "473",
+		"drugId": "132",
+		"tag": "Counselling",
+		"note": "Swallow the tablet whole. Do not crush or chew it."
+	},
+	{
+		"id": "474",
+		"drugId": "132",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Caution in pregnancy  and breastfeeding. Use only when treatments with antacids and H2 antagonists have failed."
+	},
+	{
+		"id": "475",
+		"drugId": "132",
+		"tag": "Use with caution",
+		"note": " In renal impairment, hepatic impairment, and the elderly. Prone to multiple drug interactions. Do not administer in combination with clopidogrel."
+	},
+	{
+		"id": "476",
+		"drugId": "133",
+		"tag": "Administration",
+		"note": " Give IV doses ?8 mg over at least 5 minutes and doses >8 mg over at least 15 minutes. No dose adjustment in the elderly or if renal impairment. In severe liver impairment, do not exceed maximum dose of 8 mg."
+	},
+	{
+		"id": "477",
+		"drugId": "133",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "No increased  risks found in pregnancy or breastfeeding"
+	},
+	{
+		"id": "478",
+		"drugId": "134",
+		"tag": "Breastfeeding",
+		"note": "Not recommended until more known; use only if potential benefit is greater than risk."
+	},
+	{
+		"id": "479",
+		"drugId": "134",
+		"tag": "Pregnancy",
+		"note": "Unknown  safety in pregnancy"
+	},
+	{
+		"id": "480",
+		"drugId": "135",
+		"tag": "Contraindications",
+		"note": " Hypertonic uterine contractions, mechanical obstruction to delivery, fetal distress, any condition where spontaneous labour or vaginal delivery inadvisable. Avoid prolonged administration in oxytocin-resistant uterine inertia, severe pre"
+	},
+	{
+		"id": "481",
+		"drugId": "135",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Not known to be harmful in breastfeeding, as rapidly inactivated in GI tract"
+	},
+	{
+		"id": "482",
+		"drugId": "135",
+		"tag": "Use with caution",
+		"note": "Monitor  fetal heart rate and uterine motility (discontinue immediately if uterine hyperactivity/fetal distress). To avoid water intoxication with hyponatraemia: (1) use electrolyte-containing diluent (not glucose); (2) increase oxytocin"
+	},
+	{
+		"id": "483",
+		"drugId": "136",
+		"tag": "Counselling",
+		"note": "Do not exceed  4 grams in 24 hours."
+	},
+	{
+		"id": "484",
+		"drugId": "136",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe in both pregnancy and breastfeeding (monitor infant for side-effects)"
+	},
+	{
+		"id": "485",
+		"drugId": "136",
+		"tag": "Use with caution",
+		"note": " In hepatic impairment, renal impairment, alcohol dependence"
+	},
+	{
+		"id": "486",
+		"drugId": "137",
+		"tag": "Breastfeeding",
+		"note": " Unknown safety in breastfeeding, but poorly absorbed from GI tract so excretion into breast milk likely to be minimal."
+	},
+	{
+		"id": "487",
+		"drugId": "137",
+		"tag": "Contraindications",
+		"note": " Hypersensitivity to aminoglycosides, course of paromomycin treatment in preceding 3 months, concurrent administration of nephrotoxic or ototoxic drugs including aminoglycosides, renal impairment"
+	},
+	{
+		"id": "488",
+		"drugId": "137",
+		"tag": "Pregnancy",
+		"note": "Unknown  safety in pregnancy;  no human data. Use only if potential benefit is greater than risk."
+	},
+	{
+		"id": "489",
+		"drugId": "138",
+		"tag": "Administration",
+		"note": "Risk of severe hypotension  following administration. Establish baseline blood pressure and administer with patient lying down; monitor blood pressure closely during administration and at regular intervals until treatment concluded. Avoid d"
+	},
+	{
+		"id": "490",
+		"drugId": "138",
+		"tag": "Breastfeeding",
+		"note": " Manufacturer advises avoiding unless essential; not known to be harmful, as rapidly inactivated in GI tract."
+	},
+	{
+		"id": "491",
+		"drugId": "138",
+		"tag": "Contraindications",
+		"note": "In severe renal impairment"
+	},
+	{
+		"id": "492",
+		"drugId": "138",
+		"tag": "Pregnancy",
+		"note": "Potentially fatal visceral leishmaniasis and PCP pneumonia (cotrimoxazole is preferred) should be treated in pregnancy."
+	},
+	{
+		"id": "493",
+		"drugId": "139",
+		"tag": "Breastfeeding",
+		"note": " May be used; systemic absorption expected to be minimal, but avoid application to nipple areas (or withhold breastfeeding during treatment)."
+	},
+	{
+		"id": "494",
+		"drugId": "139",
+		"tag": "Contraindications",
+		"note": "Do not use on inflamed or broken skin."
+	},
+	{
+		"id": "495",
+		"drugId": "139",
+		"tag": "Counselling",
+		"note": " Avoid contact with eyes, mouth, and inside the nose. Itch may persist for 2–3 weeks after scabies treatment or 7–10 days after lice treatment. This may not indicate ongoing infection. Scabies: Remember to apply also between fingers and toes, u"
+	},
+	{
+		"id": "496",
+		"drugId": "139",
+		"tag": "Pregnancy",
+		"note": "May be used; systemic  absorption  expected  to be minimal."
+	},
+	{
+		"id": "497",
+		"drugId": "140",
+		"tag": "Breastfeeding",
+		"note": "Use with caution in breastfeeding; avoid large doses and monitor for adverse effects; may accumulate in breast milk."
+	},
+	{
+		"id": "498",
+		"drugId": "140",
+		"tag": "Contraindications",
+		"note": " Porphyria,  absence  seizures"
+	},
+	{
+		"id": "499",
+		"drugId": "140",
+		"tag": "Counselling",
+		"note": "Take once daily at bedtime. May cause drowsiness and affect your ability to drive or operate machinery. Avoid these activities at least until you know how this medicine affects you. Do not stop taking this medicine suddenly without your clinic"
+	},
+	{
+		"id": "500",
+		"drugId": "140",
+		"tag": "Pregnancy",
+		"note": "Not recommended;  adverse effects  on neurobehavioural development have been reported."
+	},
+	{
+		"id": "501",
+		"drugId": "140",
+		"tag": "Use with caution",
+		"note": " In the elderly, impaired renal or hepatic function, respiratory depression Avoid sudden withdrawal. Prone to multiple drug interactions through CYP enzymes; check for interactions with all new and current medications."
+	},
+	{
+		"id": "502",
+		"drugId": "141",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity to penicillins"
+	},
+	{
+		"id": "503",
+		"drugId": "141",
+		"tag": "Counselling",
+		"note": "Take 1 hour before  meals or on an empty stomach."
+	},
+	{
+		"id": "504",
+		"drugId": "141",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe in both pregnancy and breastfeeding (monitor infant for side-effects)"
+	},
+	{
+		"id": "505",
+		"drugId": "141",
+		"tag": "Use with caution",
+		"note": "In renal impairment. Oral penicillin should not be used for the treatment of severe infections."
+	},
+	{
+		"id": "506",
+		"drugId": "142",
+		"tag": "Administration",
+		"note": " Administer  phenytoin  IV in normal saline and not in same line as diazepam. IV line should be running well, as the drug is caustic and will cause local damage if it extravasates. Monitor blood counts. When decision is made to withdraw trea"
+	},
+	{
+		"id": "507",
+		"drugId": "142",
+		"tag": "Breastfeeding",
+		"note": "May be used in breastfeeding; monitor for sedation and decreased sucking; consider infant serum level monitoring."
+	},
+	{
+		"id": "508",
+		"drugId": "142",
+		"tag": "Contraindications",
+		"note": " Porphyria. Avoid parenteral use in sinus bradycardia, sinoatrial block, second- and third-degree heart block, Adams-Stokes syndrome."
+	},
+	{
+		"id": "509",
+		"drugId": "142",
+		"tag": "Counselling",
+		"note": " Seek immediate medical attention if you have symptoms such as sore throat, rash, mouth ulcers, bruising, or bleeding. This medication may impair ability to perform skilled tasks such as operating machinery or driving; avoid these activities at"
+	},
+	{
+		"id": "510",
+		"drugId": "142",
+		"tag": "Pregnancy",
+		"note": "Risk of teratogenicity; use only if benefit is greater than risk (provide adequate folic acid supplementation to mother); monitor for neonatal bleeding if vitamin K not given at birth."
+	},
+	{
+		"id": "511",
+		"drugId": "142",
+		"tag": "Use with caution",
+		"note": " In hepatic impairment, diabetes mellitus, hypotension, heart failure. Resuscitation facilities must be available for intravenous administration."
+	},
+	{
+		"id": "512",
+		"drugId": "143",
+		"tag": "Administration",
+		"note": "A darkly pigmented  iris may require  higher concentration of the miotic or more frequent administration; care should be taken to avoid overdosage."
+	},
+	{
+		"id": "513",
+		"drugId": "143",
+		"tag": "Contraindications",
+		"note": " Acute iritis, acute uveitis, anterior uveitis, some forms of secondary glaucoma; acute inflammation of anterior segment. Use not advisable after angle-closure surgery (risk of posterior synechiae)."
+	},
+	{
+		"id": "514",
+		"drugId": "143",
+		"tag": "Counselling",
+		"note": " If you are using more than one type of eye drop, put in pilocarpine drops last. Causes difficulty  with adapting to the dark and may cause accommodation spasm. Avoid skilled tasks, for example, operating machinery or driving, until vision is c"
+	},
+	{
+		"id": "515",
+		"drugId": "143",
+		"tag": "Use with caution",
+		"note": " In retinal disease, conjunctival or corneal damage (monitor intraocular pressure in chronic open-angle glaucoma and in long-term treatment); cardiac disease, hypertension, asthma, peptic ulceration, urinary tract obstruction, Parkinson’s "
+	},
+	{
+		"id": "516",
+		"drugId": "144",
+		"tag": "Administration",
+		"note": "Must be applied by a trained health worker"
+	},
+	{
+		"id": "517",
+		"drugId": "144",
+		"tag": "Counselling",
+		"note": "Avoid contact with face and other sensitive areas."
+	},
+	{
+		"id": "518",
+		"drugId": "144",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Contraindicated in pregnancy and breastfeeding"
+	},
+	{
+		"id": "519",
+		"drugId": "144",
+		"tag": "Use with caution",
+		"note": " Avoid use on large areas; very irritant  to eyes (keep away from face); avoid contact with normal skin, mucus membranes, open wounds."
+	},
+	{
+		"id": "520",
+		"drugId": "145",
+		"tag": "Breastfeeding",
+		"note": "Not recommended until more known; use only if potential benefit is greater than risk."
+	},
+	{
+		"id": "521",
+		"drugId": "145",
+		"tag": "Contraindications",
+		"note": " Ileus, GI haemorrhage, haemodynamic instability, uncontrollable vomiting, bowel obstruction or perforation, decreased consciousness with unprotected airway."
+	},
+	{
+		"id": "522",
+		"drugId": "145",
+		"tag": "Pregnancy",
+		"note": "Unknown  safety in pregnancy."
+	},
+	{
+		"id": "523",
+		"drugId": "146",
+		"tag": "Administration",
+		"note": " Do not use on large open wounds: may produce systemic adverse effects such as metabolic acidosis, hypernatraemia, impairment of renal function."
+	},
+	{
+		"id": "524",
+		"drugId": "146",
+		"tag": "Contraindications",
+		"note": "Avoid regular or prolonged use in patients with thyroid disorders or those taking lithium."
+	},
+	{
+		"id": "525",
+		"drugId": "147",
+		"tag": "Administration",
+		"note": " Monitor  potassium  levels. Potassium salts cause nausea and vomiting; therefore, poor compliance is a major limitation to their effectiveness; where appropriate, potassium-sparing diuretics are preferable."
+	},
+	{
+		"id": "526",
+		"drugId": "147",
+		"tag": "Contraindications",
+		"note": "Severe renal impairment and plasma potassium concentration  above 5 mmol/l"
+	},
+	{
+		"id": "527",
+		"drugId": "147",
+		"tag": "Counselling",
+		"note": " If you have severe nausea and vomiting, stop the medicine and inform your clinician."
+	},
+	{
+		"id": "528",
+		"drugId": "147",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "May be used for supplementation in pregnancy and breastfeeding; monitor electrolytes to keep maternal serum levels within normal range."
+	},
+	{
+		"id": "529",
+		"drugId": "147",
+		"tag": "Use with caution",
+		"note": " In elderly, mild/moderate renal impairment, history of peptic ulcer"
+	},
+	{
+		"id": "530",
+		"drugId": "148",
+		"tag": "Administration",
+		"note": " In exudative  eczematous  areas, treatment should be stopped when the skin becomes dry. Note: Potassium permanganate is sometimes supplied as an aqueous stock solution of 1:1000 (0.1%) for dilution before use. To be diluted  1 in 10 to prov"
+	},
+	{
+		"id": "531",
+		"drugId": "148",
+		"tag": "Use with caution",
+		"note": "Avoid occlusive  dressings."
+	},
+	{
+		"id": "532",
+		"drugId": "149",
+		"tag": "Breastfeeding",
+		"note": "May be used for single-day treatment during breastfeeding"
+	},
+	{
+		"id": "533",
+		"drugId": "149",
+		"tag": "Contraindications",
+		"note": "Ocular cysticercosis"
+	},
+	{
+		"id": "534",
+		"drugId": "149",
+		"tag": "Counselling",
+		"note": " Take with food. Swallow with plenty of water to prevent vomiting due to bitter taste. Tablet may be cut into halves or quarters, but do not chew. The medicine may make you feel drowsy or dizzy; if you are affected, do not drive or operate mach"
+	},
+	{
+		"id": "535",
+		"drugId": "149",
+		"tag": "Pregnancy",
+		"note": "Use not recommended in first trimester; consider alternatives. Caution in second and third trimesters; use only if treatment of choice."
+	},
+	{
+		"id": "536",
+		"drugId": "150",
+		"tag": "Administration",
+		"note": " Monitor  weight,  blood pressure,  fluid and electrolyte balance, and blood glucose levels throughout prolonged treatment. The suppressive action of a corticosteroid on cortisol secretion is least when it is given as a single dose in the mo"
+	},
+	{
+		"id": "537",
+		"drugId": "150",
+		"tag": "Breastfeeding",
+		"note": "May be used at recommended doses; amount in milk low at doses up to 80 mg (monitor  infant’s  adrenal function if dose is higher)"
+	},
+	{
+		"id": "538",
+		"drugId": "150",
+		"tag": "Contraindications",
+		"note": "Systemic infection (unless life- threatening or specific antimicrobial therapy given). Avoid live virus vaccines in those receiving immunosuppressive doses."
+	},
+	{
+		"id": "539",
+		"drugId": "150",
+		"tag": "Counselling",
+		"note": " Take with food to reduce stomach upset. Tell your doctor immediately if you have any signs of infection. If you have been on this medicine for more than 3 weeks, don’t stop the treatment suddenly. Tell your doctor, dentist, or pharmacist that "
+	},
+	{
+		"id": "540",
+		"drugId": "150",
+		"tag": "Pregnancy",
+		"note": " May be used at the recommended doses; caution in first trimester due to possibility of oral cleft; limited transplacental transfer. Monitor blood glucose, especially in diabetics."
+	},
+	{
+		"id": "541",
+		"drugId": "150",
+		"tag": "Use with caution",
+		"note": " In infections,  hypertension,  recent myocardial infarction, congestive heart failure, renal impairment, hepatic impairment, diabetes mellitus including family history, osteoporosis, glaucoma including family history, corneal perforation,"
+	},
+	{
+		"id": "542",
+		"drugId": "151",
+		"tag": "Breastfeeding",
+		"note": " Use with caution;  limited data. Monitor infants for adverse effects (e.g. haemolysis, jaundice). Avoid in neonates and infants who are G6PD-deficient."
+	},
+	{
+		"id": "543",
+		"drugId": "151",
+		"tag": "Contraindications",
+		"note": "Conditions that predispose  to granulocytopenia. Monitor blood count. Exclude  G6PD deficiency before radical treatment for P. vivax and P. ovale but not before single-dose gametocytocidal treatment."
+	},
+	{
+		"id": "544",
+		"drugId": "151",
+		"tag": "Counselling",
+		"note": "Give with food if severe nausea/vomiting or abdominal cramps occur."
+	},
+	{
+		"id": "545",
+		"drugId": "151",
+		"tag": "Pregnancy",
+		"note": "Uncertain safety in pregnancy; use not recommended."
+	},
+	{
+		"id": "546",
+		"drugId": "152",
+		"tag": "Administration",
+		"note": "Give by deep IM injection. (Do not give IV.) Can be used for daily outpatient  treatment. Probenecid is added to increase serum penicillin levels in neurosyphilis."
+	},
+	{
+		"id": "547",
+		"drugId": "152",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity to penicillins or if IV administration needed"
+	},
+	{
+		"id": "548",
+		"drugId": "152",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe in both pregnancy and breastfeeding (monitor infant for side- effects)."
+	},
+	{
+		"id": "549",
+		"drugId": "152",
+		"tag": "Use with caution",
+		"note": "In renal failure. Observe patient with syphilis or borreliosis for several hours after treatment."
+	},
+	{
+		"id": "550",
+		"drugId": "153",
+		"tag": "Administration",
+		"note": " When stopping treatment, reduce dosage gradually over at least 2 weeks."
+	},
+	{
+		"id": "551",
+		"drugId": "153",
+		"tag": "Breastfeeding",
+		"note": "Present in milk; safe in usual dosage; monitor infant."
+	},
+	{
+		"id": "552",
+		"drugId": "153",
+		"tag": "Contraindications",
+		"note": " Asthma or history of obstructive airway disease, uncontrolled heart failure, Prinzmetal’s angina, marked bradycardia, hypotension, sick sinus syndrome, second- or third-degree atrioventricular block, cardiogenic shock, metabolic acidosis"
+	},
+	{
+		"id": "553",
+		"drugId": "153",
+		"tag": "Counselling",
+		"note": "Do not stop taking this medicine suddenly without your clinician’s advice."
+	},
+	{
+		"id": "554",
+		"drugId": "153",
+		"tag": "Pregnancy",
+		"note": " Use with caution. May cause intrauterine growth restriction, neonatal hypoglycaemia, and bradycardia; risk greater in severe hypertension."
+	},
+	{
+		"id": "555",
+		"drugId": "153",
+		"tag": "Use with caution",
+		"note": "In first-degree atrioventricular block; renal impairment; liver disease; portal hypertension; diabetes mellitus; myasthenia gravis; history of hypersensitivity"
+	},
+	{
+		"id": "556",
+		"drugId": "154",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "May be used in pregnancy  and breastfeeding; doses >200 mg/day may suppress  lactation."
+	},
+	{
+		"id": "557",
+		"drugId": "155",
+		"tag": "Administration",
+		"note": "Give with food if GI disturbances occur. Monitor blood counts in prolonged treatment and give folate supplements throughout treatment."
+	},
+	{
+		"id": "558",
+		"drugId": "155",
+		"tag": "Breastfeeding",
+		"note": " Use, with caution,  if it is the drug of choice."
+	},
+	{
+		"id": "559",
+		"drugId": "155",
+		"tag": "Contraindications",
+		"note": "Megaloblastic anaemia"
+	},
+	{
+		"id": "560",
+		"drugId": "155",
+		"tag": "Pregnancy",
+		"note": "May be used during pregnancy  if it is the drug of choice; avoid in first trimester when possible."
+	},
+	{
+		"id": "561",
+		"drugId": "155",
+		"tag": "Use with caution",
+		"note": " In hepatic  and renal impairment For treatment of toxoplasmosis, pyrimethamine must always be taken with sulfadiazine and should be administered with folinic acid when available."
+	},
+	{
+		"id": "562",
+		"drugId": "156",
+		"tag": "Note",
+		"note": "See doxycycline and quinine. Additionally:"
+	},
+	{
+		"id": "563",
+		"drugId": "156",
+		"tag": "Use with caution",
+		"note": " Rifampicin reduces the plasma concentration of quinine, leading to increased treatment failures. Avoid antiarrhythmics, such as flecainide and amiodarone. Antihistamines, such as terfenadine, and antipsychotic drugs, such as pimozide and "
+	},
+	{
+		"id": "564",
+		"drugId": "157",
+		"tag": "Administration",
+		"note": " Oral: If part of all of a dose is vomited within 1 hour, the same amount must be re-administered immediately. IV: Do not give as intravenous bolus injection. Infuse IV quinine over 4 hours, preferably in glucose 5% to reduce risk of hypogly"
+	},
+	{
+		"id": "565",
+		"drugId": "157",
+		"tag": "Breastfeeding",
+		"note": "Caution; monitor for adverse effects.  Avoid in G6PD-deficient infants."
+	},
+	{
+		"id": "566",
+		"drugId": "157",
+		"tag": "Contraindications",
+		"note": " Haemoglobinuria, optic neuritis, tinnitus"
+	},
+	{
+		"id": "567",
+		"drugId": "157",
+		"tag": "Pregnancy",
+		"note": " Use only if benefit is greater than risk; avoid in first trimester  when possible, as high doses (>1 g total) may cause fetal deafness."
+	},
+	{
+		"id": "568",
+		"drugId": "157",
+		"tag": "Use with caution",
+		"note": " In atrial fibrillation, conduction defects, heart block, renal impairment, G6PD deficiency, myasthenia gravis. With IV use, monitor signs of cardiac toxicity and blood glucose levels."
+	},
+	{
+		"id": "569",
+		"drugId": "158",
+		"tag": "Breastfeeding",
+		"note": " May be used, with caution, at recommended doses"
+	},
+	{
+		"id": "570",
+		"drugId": "158",
+		"tag": "Counselling",
+		"note": " Urine, tears, saliva, and sputum may become coloured orange-red- do not worry about it as the colour change is harmless."
+	},
+	{
+		"id": "571",
+		"drugId": "158",
+		"tag": "Pregnancy",
+		"note": "Considered  safe"
+	},
+	{
+		"id": "572",
+		"drugId": "159",
+		"tag": "Administration",
+		"note": " Ocular examination recommended before and during treatment. Three times per week is acceptable alternative provided that patient is receiving directly observed therapy, and is not living with HIV or living in an HIV-prevalent setting. See S"
+	},
+	{
+		"id": "573",
+		"drugId": "159",
+		"tag": "Contraindications",
+		"note": " Hypersensitivity to rifampicin, hepatic disease, porphyria, optic neuritis, severe renal impairment"
+	},
+	{
+		"id": "574",
+		"drugId": "159",
+		"tag": "Counselling",
+		"note": " Discontinue treatment and seek immediate medical attention if you develop persistent nausea, vomiting, malaise, yellow discoloration of the white of your eye or urine. Tell your health care provider immediately about any changes in your vision"
+	},
+	{
+		"id": "575",
+		"drugId": "159",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Considered safe in pregnancy; Benefits of treating TB in pregnant and breastfeeding women outweigh risks of drug side-effects to either mother or infant. Monitor infant for signs of pyridoxine deficiency or jaundice; consider mater"
+	},
+	{
+		"id": "576",
+		"drugId": "159",
+		"tag": "Use with caution",
+		"note": " In hepatic  or renal impairment,  diabetes mellitus, gout, chronic alcohol dependence, elderly, epilepsy, history of psychosis. Prophylactic pyridoxine 10 mg daily indicated, particularly in HIV-positive patients."
+	},
+	{
+		"id": "577",
+		"drugId": "160",
+		"tag": "Breastfeeding",
+		"note": "May be used at recommended doses (monitor infant)"
+	},
+	{
+		"id": "578",
+		"drugId": "160",
+		"tag": "Pregnancy",
+		"note": "May be used at recommended doses; asthma management for pregnant and non-pregnant women should be the same."
+	},
+	{
+		"id": "579",
+		"drugId": "160",
+		"tag": "Use with caution",
+		"note": " In hyperthyroidism, myocardial insufficiency, arrhythmias, susceptibility to QT interval prolongation, hypertension, diabetes mellitus"
+	},
+	{
+		"id": "580",
+		"drugId": "161",
+		"tag": "Administration",
+		"note": "Avoid application to large areas."
+	},
+	{
+		"id": "581",
+		"drugId": "161",
+		"tag": "Contraindications",
+		"note": "Broken or inflamed skin."
+	},
+	{
+		"id": "582",
+		"drugId": "161",
+		"tag": "Counselling",
+		"note": " Avoid contact with eyes, lips, and inside of your nose. Protect surrounding skin; rub warts gently with file or pumice stone once weekly."
+	},
+	{
+		"id": "583",
+		"drugId": "161",
+		"tag": "Use with caution",
+		"note": "In significant peripheral neuropathy; in diabetics at risk of neuropathic ulcers"
+	},
+	{
+		"id": "584",
+		"drugId": "162",
+		"tag": "Administration",
+		"note": " Take with a fatty meal or up to 2 hours after meal. Avoid garlic capsules, which reduce plasma saquinavir concentration)"
+	},
+	{
+		"id": "585",
+		"drugId": "162",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Continuation  of antiretroviral therapy throughout pregnancy is recommended; close monitoring of blood glucose recommended, as risk of pregnancy-related hyperglycaemia may be increased."
+	},
+	{
+		"id": "586",
+		"drugId": "162",
+		"tag": "Use with caution",
+		"note": "In severe hepatic  impairment"
+	},
+	{
+		"id": "587",
+		"drugId": "163",
+		"tag": "Administration",
+		"note": " To minimize absorption,  rinse hair thoroughly after use and remove all traces from skin (including nails). Note: Selenium sulfide is widely used in proprietary shampoos."
+	},
+	{
+		"id": "588",
+		"drugId": "163",
+		"tag": "Breastfeeding",
+		"note": "Uncertain safety in breastfeeding; use with caution."
+	},
+	{
+		"id": "589",
+		"drugId": "163",
+		"tag": "Pregnancy",
+		"note": " May be used on the scalp; it should not be used on the body to treat skin infections, as it may be absorbed through the skin."
+	},
+	{
+		"id": "590",
+		"drugId": "163",
+		"tag": "Use with caution",
+		"note": " Do not apply to damaged skin (risk of systemic toxicity); avoid contact with eyes; do not use within  48 hours of applying preparations for hair colouring, straightening, or permanent wave."
+	},
+	{
+		"id": "591",
+		"drugId": "164",
+		"tag": "Breastfeeding",
+		"note": "Not known to be harmful"
+	},
+	{
+		"id": "592",
+		"drugId": "164",
+		"tag": "Pregnancy",
+		"note": " If dietary and lifestyle changes fail to control constipation in pregnancy, moderate doses of poorly absorbed laxatives may be used. A bulk-forming laxative should be tried first. An osmotic laxative, such as lactulose, can also be used. Bisacod"
+	},
+	{
+		"id": "593",
+		"drugId": "164",
+		"tag": "Use with caution",
+		"note": "Avoid prolonged  use unless indicated  to prevent faecal impaction."
+	},
+	{
+		"id": "594",
+		"drugId": "165",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Unknown safety in pregnancy  and breastfeeding; use with caution, if benefit is greater than risk."
+	},
+	{
+		"id": "595",
+		"drugId": "166",
+		"tag": "Administration",
+		"note": "Start treatment with cromoglicate  1 month before the onset of the hay fever season."
+	},
+	{
+		"id": "596",
+		"drugId": "166",
+		"tag": "Counselling",
+		"note": "It can take 3–4 weeks to reach full effect."
+	},
+	{
+		"id": "597",
+		"drugId": "167",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Unknown safety in pregnancy  and breastfeeding; use with caution; cyanide poisoning likely to be the more significant risk."
+	},
+	{
+		"id": "598",
+		"drugId": "167",
+		"tag": "Use with caution",
+		"note": "In severe cardiovascular or cerebrovascular disease. Monitor plasma methaemoglobin levels."
+	},
+	{
+		"id": "599",
+		"drugId": "168",
+		"tag": "Breastfeeding",
+		"note": " Use, with caution,  if benefits are greater than risks; monitor infant for effects such as hypotension, bradycardia, fatigue."
+	},
+	{
+		"id": "600",
+		"drugId": "168",
+		"tag": "Contraindications",
+		"note": " Severe hepatic  impairment, compensatory hypertension, severe vitamin B12 deficiency"
+	},
+	{
+		"id": "601",
+		"drugId": "168",
+		"tag": "Pregnancy",
+		"note": "Not recommended in hypertensive crisis in pregnancy."
+	},
+	{
+		"id": "602",
+		"drugId": "169",
+		"tag": "Administration",
+		"note": "IV injections must be given slowly over 5 minutes (to reduce risk of local thrombosis) and stopped if coughing or substernal pain."
+	},
+	{
+		"id": "603",
+		"drugId": "169",
+		"tag": "Breastfeeding",
+		"note": " Limited information suggests that doses up to 1.4 g daily produce low levels in milk, not expected to cause any adverse effects, especially if the infant is older than 2 months; if withholding nursing during therapy is preferred, breastfeedi"
+	},
+	{
+		"id": "604",
+		"drugId": "169",
+		"tag": "Contraindications",
+		"note": " Cardiac, liver and kidney disorders."
+	},
+	{
+		"id": "605",
+		"drugId": "169",
+		"tag": "Pregnancy",
+		"note": " Uncertain safety in pregnancy; use, with caution, if benefit is greater than risk."
+	},
+	{
+		"id": "606",
+		"drugId": "169",
+		"tag": "Use with caution",
+		"note": "Successful treatment of mucocutaneous leishmaniasis may induce severe inflammation around the lesions (may be life-threatening if pharyngeal or tracheal involvement); may require corticosteroid."
+	},
+	{
+		"id": "607",
+		"drugId": "170",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Unknown safety in pregnancy  and breastfeeding; use with caution. Cyanide poisoning likely to be the more significant risk."
+	},
+	{
+		"id": "608",
+		"drugId": "171",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Use only if indicated. No controlled studies or reports teratogenicity."
+	},
+	{
+		"id": "609",
+		"drugId": "171",
+		"tag": "Use with caution",
+		"note": "In renal impairment"
+	},
+	{
+		"id": "610",
+		"drugId": "172",
+		"tag": "Breastfeeding",
+		"note": " Use, with caution,  if benefit is greater than risk; amount to infant appears very small, unlikely to cause adverse effects; theoretically may suppress lactation due to diuresis"
+	},
+	{
+		"id": "611",
+		"drugId": "172",
+		"tag": "Contraindications",
+		"note": " Hyperkalaemia, hyponatraemia, severe renal impairment, Addison’s disease. Monitor blood urea nitrogen and plasma electrolytes; discontinue if hyperkalaemia."
+	},
+	{
+		"id": "612",
+		"drugId": "172",
+		"tag": "Pregnancy",
+		"note": "Not recommended; consider alternatives where possible."
+	},
+	{
+		"id": "613",
+		"drugId": "172",
+		"tag": "Use with caution",
+		"note": " In elderly; in patients with diabetes mellitus, renal impairment, hepatic impairment, porphyria Avoid concurrent administration of potassium supplements."
+	},
+	{
+		"id": "614",
+		"drugId": "173",
+		"tag": "Administration",
+		"note": " Monitor auditory, and vestibular function. If poor renal function, adjust dose."
+	},
+	{
+		"id": "615",
+		"drugId": "173",
+		"tag": "Breastfeeding",
+		"note": "May be used at recommended doses (monitor infant for thrush or diarrhoea)"
+	},
+	{
+		"id": "616",
+		"drugId": "173",
+		"tag": "Contraindications",
+		"note": " Hearing disorders,  myasthenia  gravis"
+	},
+	{
+		"id": "617",
+		"drugId": "173",
+		"tag": "Pregnancy",
+		"note": "Avoid streptomycin during pregnancy; auditory or vestibular nerve damage possible"
+	},
+	{
+		"id": "618",
+		"drugId": "173",
+		"tag": "Use with caution",
+		"note": "In patients with renal impairment;  elderly patients.  Patients  over 60 years or those weighing  <50 kg may not tolerate doses above 500–750 mg daily."
+	},
+	{
+		"id": "619",
+		"drugId": "174",
+		"tag": "Administration",
+		"note": " For the treatment of toxoplasmosis, pyrimethamine must always be taken with sulfadiazine."
+	},
+	{
+		"id": "620",
+		"drugId": "174",
+		"tag": "Breastfeeding",
+		"note": " Limited data; use with caution.  Avoid in G6PD-deficient neonates and infants; monitor infants for adverse effects (e.g. haemolysis, jaundice)."
+	},
+	{
+		"id": "621",
+		"drugId": "174",
+		"tag": "Contraindications",
+		"note": " Hypersensitivity to sulphonamides, porphyria"
+	},
+	{
+		"id": "622",
+		"drugId": "174",
+		"tag": "Pregnancy",
+		"note": " Uncertain safety in pregnancy. Use, with caution, only if potential benefit is greater than risk; avoid in first trimester due to bone marrow toxicity; avoid in third trimester due to risk of neonatal jaundice."
+	},
+	{
+		"id": "623",
+		"drugId": "174",
+		"tag": "Use with caution",
+		"note": " In hepatic  or renal impairment.  Maintain adequate fluid intake to avoid crystalluria. Avoid in blood disorders (except with specialist supervision); monitor blood counts; predisposition to folate deficiency, elderly, asthma, G6PD defici"
+	},
+	{
+		"id": "624",
+		"drugId": "175",
+		"tag": "Breastfeeding",
+		"note": "Unknown  safety; not recommended"
+	},
+	{
+		"id": "625",
+		"drugId": "175",
+		"tag": "Contraindications",
+		"note": " Already taking cotrimoxazole, hypersensitive to sulfonamides or pyrimethamine, severe hepatic or renal impairment. Avoid in blood disorders (except with specialist supervision). Withdraw treatment if blood disorder, rash, sore throat, mo"
+	},
+	{
+		"id": "626",
+		"drugId": "175",
+		"tag": "Pregnancy",
+		"note": "Use during pregnancy  if treatment of choice; consider folic acid supplementation 5 mg/day."
+	},
+	{
+		"id": "627",
+		"drugId": "175",
+		"tag": "Use with caution",
+		"note": " In G6PD deficiency, predisposition to folate deficiency"
+	},
+	{
+		"id": "628",
+		"drugId": "177",
+		"tag": "Breastfeeding",
+		"note": "Unknown safety in breastfeeding; avoid if possible."
+	},
+	{
+		"id": "629",
+		"drugId": "177",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity; totally blind patients with onchocerciasis (unless they require relief from the intensely itchy lesions not relieved by safer alternative)"
+	},
+	{
+		"id": "630",
+		"drugId": "177",
+		"tag": "Pregnancy",
+		"note": " Uncertain safety in pregnancy; use, with caution, only if potential benefit is greater than risk (e.g. in trypanosomiasis)."
+	},
+	{
+		"id": "631",
+		"drugId": "177",
+		"tag": "Use with caution",
+		"note": " In anaphylaxis, renal/hepatic impairment, total blindness, elderly"
+	},
+	{
+		"id": "632",
+		"drugId": "178",
+		"tag": "Administration",
+		"note": "Do not use with ddI (levels increased). Active against HBV (see Section 11.14)"
+	},
+	{
+		"id": "633",
+		"drugId": "178",
+		"tag": "Contraindication",
+		"note": "Renal impairment"
+	},
+	{
+		"id": "634",
+		"drugId": "178",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Concern of HBV flare if HBV–HIV co-infected mother stops the medication postpartum. Limited data available on potential maternal and infant bone toxicity."
+	},
+	{
+		"id": "635",
+		"drugId": "178",
+		"tag": "Use with caution",
+		"note": " In underlying  renal disease, age >40 years, BMI <18.5 (or body weight  <50 kg), diabetes  mellitus, hypertension, concomitant use of a bPI or nephrotoxic drug"
+	},
+	{
+		"id": "636",
+		"drugId": "179",
+		"tag": "",
+		"note": "Use with caution\"",
+		"undefined": "Avoid contact  with eyes and mucous membranes."
+	},
+	{
+		"id": "637",
+		"drugId": "180",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity to ester-type local anaesthetics; eye inflammation or infection."
+	},
+	{
+		"id": "638",
+		"drugId": "180",
+		"tag": "Use with caution",
+		"note": " Avoid prolonged  use (risk of severe keratitis, permanent corneal opacification, scarring, delayed corneal healing). Protect eye from dust and bacterial contamination until sensation is fully restored. Never give patients anaesthetic drop"
+	},
+	{
+		"id": "639",
+		"drugId": "181",
+		"tag": "Breastfeeding",
+		"note": "Uncertain safety; avoid if possible. Contraindications"
+	},
+	{
+		"id": "640",
+		"drugId": "181",
+		"tag": "Pregnancy",
+		"note": " Contraindicated after week 8 due to effects on fetal bone growth and dental discolouration; short courses can be used if alternative not appropriate; implicated in causing maternal hepatotoxicity, especially in third trimester (dose-related)"
+	},
+	{
+		"id": "641",
+		"drugId": "182",
+		"tag": "Contraindications",
+		"note": "Hypersensitivity to tetracycline group of antibiotics"
+	},
+	{
+		"id": "642",
+		"drugId": "182",
+		"tag": "Use with caution",
+		"note": "Prolonged use may lead to overgrowth of non-susceptible organisms."
+	},
+	{
+		"id": "643",
+		"drugId": "183",
+		"tag": "Administration",
+		"note": " If IV, infuse over 30 minutes."
+	},
+	{
+		"id": "644",
+		"drugId": "183",
+		"tag": "Pregnancy/breatfeeding",
+		"note": "Severely thiamine-deficient mothers should avoid breastfeeding."
+	},
+	{
+		"id": "645",
+		"drugId": "184",
+		"tag": "Administration",
+		"note": " As early as possible, within  3–4 hours of injury. Reduce injection dose in patients with renal insufficiency. TXA solution for injection should not be mixed with blood for transfusion or with infusion solutions containing penicillin or man"
+	},
+	{
+		"id": "646",
+		"drugId": "184",
+		"tag": "Breastfeeding",
+		"note": "Very small amounts pass into breast milk; an antifibrinolytic effect in the infant is unlikely."
+	},
+	{
+		"id": "647",
+		"drugId": "184",
+		"tag": "Contraindications",
+		"note": "History of thromboembolic disease"
+	},
+	{
+		"id": "648",
+		"drugId": "184",
+		"tag": "Pregnancy",
+		"note": " TXA has been used in pregnancy  and no harmful effects  have been reported.  In the CRASH-2 trial, pregnancy was not an exclusion criteria. Weigh the potential risks and benefits for each woman."
+	},
+	{
+		"id": "649",
+		"drugId": "185",
+		"tag": "Counselling",
+		"note": "Some redness  and skin peeling  may occur initially but settles with time."
+	},
+	{
+		"id": "650",
+		"drugId": "185",
+		"tag": "Pregnancy",
+		"note": "Topical retinoids contraindicated in pregnancy; women of child-bearing age must use effective contraception (oral progestogen-only contraceptives not considered sufficiently effective)."
+	},
+	{
+		"id": "651",
+		"drugId": "185",
+		"tag": "Use with caution",
+		"note": " Topical retinoids  should be avoided in severe acne involving large areas. Avoid contact with eyes, nostrils, mouth, mucous membranes; eczematous, broken, or sunburned skin. Avoid exposure to UV light (including sunlight, solariums). If s"
+	},
+	{
+		"id": "652",
+		"drugId": "186",
+		"tag": "Use with caution",
+		"note": " In severe fascioliasis, biliary colic can occur due to obstruction by dying worms."
+	},
+	{
+		"id": "653",
+		"drugId": "188",
+		"tag": "Use with caution",
+		"note": "Avoid application to face or broken skin; avoid contact with eyes."
+	},
+	{
+		"id": "654",
+		"drugId": "189",
+		"tag": "Administration",
+		"note": "Do not use for alcohol  withdrawal."
+	},
+	{
+		"id": "655",
+		"drugId": "189",
+		"tag": "Breastfeeding",
+		"note": "May be used in breastfeeding. Small amounts excreted in breast milk; use minimum effective dose and monitor infant for adverse effects (e.g. jaundice)."
+	},
+	{
+		"id": "656",
+		"drugId": "189",
+		"tag": "Counselling",
+		"note": "Take with food to reduce  stomach  upset. Your appetite may increase when taking this medicines; pay attention to your diet to avoid weight gain. This medication may impair your ability to perform hazardous activities requiring mental alertnes"
+	},
+	{
+		"id": "657",
+		"drugId": "189",
+		"tag": "Pregnancy",
+		"note": "Risk of teratogenicity; use only if benefit is greater than risk; consider folic acid supplementation 5 mg/ day and vitamin K supplementation."
+	},
+	{
+		"id": "658",
+		"drugId": "189",
+		"tag": "Use with caution",
+		"note": "Monitor coagulation studies and liver function tests regularly during therapy. Prone to multiple drug interactions through CYP enzymes; check for interactions with all new and current medications. Elderly: See cautions in Section 10.11.5."
+	},
+	{
+		"id": "659",
+		"drugId": "190",
+		"tag": "Administration",
+		"note": "Do not give by IV injection. Store below 25 °C; protect from light."
+	},
+	{
+		"id": "660",
+		"drugId": "190",
+		"tag": "Breastfeeding",
+		"note": "Safe to use Contraindications"
+	},
+	{
+		"id": "661",
+		"drugId": "190",
+		"tag": "Pregnancy",
+		"note": " Safe, but megaloblastic anaemia of pregnancy is usually due to folate deficiency and should be treated with folate plus vitamin B12."
+	},
+	{
+		"id": "662",
+		"drugId": "190",
+		"tag": "Use with caution",
+		"note": "Establish which deficiency is present – vitamin B12 or folate – with a marrow examination and treat the underlying cause. Always give B12 with folic acid in pernicious anaemia; folic acid given alone can precipitate neuropathy if there is"
+	},
+	{
+		"id": "663",
+		"drugId": "192",
+		"tag": "Administration",
+		"note": "IV vitamin K should be given slowly over 20 minutes. Note: Vitamin K is not an antidote to heparin."
+	},
+	{
+		"id": "664",
+		"drugId": "192",
+		"tag": "Breastfeeding",
+		"note": "May be used short-term; caution if chronic dosing required"
+	},
+	{
+		"id": "665",
+		"drugId": "192",
+		"tag": "Pregnancy",
+		"note": "Use only if benefit is greater than risk."
+	},
+	{
+		"id": "666",
+		"drugId": "192",
+		"tag": "Use with caution",
+		"note": "In elderly and hepatic  impairment"
+	},
+	{
+		"id": "667",
+		"drugId": "193",
+		"tag": "Contraindications",
+		"note": " Abnormally low neutrophil counts or severe anaemia (Hb <7.0 g/dl and/or  ANC <750 cells/mm3); high risk for anaemia and neutropaenia if CD4 count  <200, BMI <18.5 (or body weight  <50 kg), anaemia at baseline."
+	},
+	{
+		"id": "668",
+		"drugId": "193",
+		"tag": "Pregnancy/breatfeeding",
+		"note": " Well tolerated, risk of anaemia"
+	},
+	{
+		"id": "669",
+		"drugId": "193",
+		"tag": "Use with caution",
+		"note": " In vitamin B12 deficiency,  renal or hepatic impairment, elderly patients"
+	}
+]

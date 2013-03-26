@@ -3,5 +3,5 @@
 </div>
 
 <div data-role="content">
-	<a href="#drug" data-role="button">Lookup a drug</a>
+	<a href="#drugs" data-role="button">Lookup a drug</a>
 </div>

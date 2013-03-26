@@ -1,774 +1,1160 @@
 [
 	{
-		"name": "Acamprosate",
-		"category": "Other"
-	},
-	{
-		"name": "Acetazolamide",
-		"category": "Other"
-	},
-	{
-		"name": "Acetylcysteine",
-		"category": "Other"
-	},
-	{
-		"name": "Acetylsalicyclic acid (aspirin)",
-		"category": "Other"
-	},
-	{
-		"name": "Aciclovir",
-		"category": "Other"
-	},
-	{
-		"name": "Albendazole",
-		"category": "Other"
-	},
-	{
-		"name": "Amiloride",
-		"category": "Other"
-	},
-	{
-		"name": "Amitriptyline",
-		"category": "Other"
-	},
-	{
-		"name": "Amoxicillin",
-		"category": "Other"
-	},
-	{
-		"name": "Amoxicillin with clavulanic acid",
-		"category": "Other"
-	},
-	{
-		"name": "Amphotericin B (conventional)",
-		"category": "Other"
-	},
-	{
-		"name": "Amphotericin B (liposomal)",
-		"category": "Other"
-	},
-	{
-		"name": "Ampicillin",
-		"category": "Other"
-	},
-	{
+		"id": "1",
 		"name": "Abacavir (ABC)",
+		"formulation": "Tablet: 300 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Atazanavir + ritonavir (ATV/r)",
+		"id": "2",
+		"name": "Acamprosate",
+		"formulation": "Tablet: 333 mg enteric coated",
 		"category": "Other"
 	},
 	{
-		"name": "Didanosine (ddI)",
+		"id": "3",
+		"name": "Acetazolamide",
+		"formulation": "Tablet: 250 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Efavirenz (EFV)",
+		"id": "4",
+		"name": "Acetylcysteine",
+		"formulation": "Injection: 200 mg/ml (intended for antidotal, not mucolytic, use) ",
 		"category": "Other"
 	},
 	{
-		"name": "Emtricitabine (FTC)",
+		"id": "5",
+		"name": "Acetylsalicyclic acid (aspirin)",
+		"formulation": "Tablet: 100 mg, 300 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Lamivudine (3TC)",
+		"id": "6",
+		"name": "Aciclovir",
+		"formulation": "Tablet: 200 mg, 400 mg, 800 mg Oral suspension: 200 mg/5 ml Infusion: 250 mg vial",
 		"category": "Other"
 	},
 	{
-		"name": "Nevirapine (NVP)",
+		"id": "7",
+		"name": "Albendazole",
+		"formulation": "Tablet: 400 mg (chewable)",
 		"category": "Other"
 	},
 	{
-		"name": "Lopinavir + ritonavir (LPV/r)",
+		"id": "8",
+		"name": "Amiloride",
+		"formulation": "Tablet: 5 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Saquinavir (SQV)",
+		"id": "9",
+		"name": "Amitriptyline",
+		"formulation": "Tablet: 25 mg, 50 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Tenofovir (TDF)",
+		"id": "10",
+		"name": "Amoxicillin",
+		"formulation": "Tablet/capsule: amoxicillin",
 		"category": "Other"
 	},
 	{
-		"name": "Zidovudine (ZDV AZT)",
+		"id": "11",
+		"name": "Amoxicillin with clavulanic acid",
+		"formulation": "Tablet/capsule:  250 mg, 500 mg",
 		"category": "Other"
 	},
 	{
+		"id": "12",
+		"name": "Amphotericin B (conventional)",
+		"formulation": "Infusion, intravenous: 50 mg vial (dissolve 50 mg in 10 ml sterile water and make up to",
+		"category": "Other"
+	},
+	{
+		"id": "13",
+		"name": "Amphotericin B (liposomal)",
+		"formulation": "Injection, powder for reconstitution: 50 mg (contains soy, sucrose 900 mg)",
+		"category": "Other"
+	},
+	{
+		"id": "14",
+		"name": "Ampicillin",
+		"formulation": "Injection: 500 mg vial, 1 g vial",
+		"category": "Other"
+	},
+	{
+		"id": "15",
 		"name": "Artemether",
+		"formulation": "Injection: 80 mg/ml in 1 ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "16",
 		"name": "Artemether + lumefantrine",
+		"formulation": "Co-formulated tablets of",
 		"category": "Other"
 	},
 	{
+		"id": "17",
 		"name": "Artesunate",
+		"formulation": "Injection: 60 mg ampoule with separate ampoule of 5% sodium bicarbonate",
 		"category": "Other"
 	},
 	{
+		"id": "18",
 		"name": "Artesunate + amodiaquine",
+		"formulation": "Co-formulated tablets of artesunate + amodiaquine,",
 		"category": "Other"
 	},
 	{
-		"name": "Artesunate + sulfadoxine–pyrimethamine",
-		"category": "Other"
-	},
-	{
-		"name": "Artesunate + mefl oquine",
-		"category": "Other"
-	},
-	{
+		"id": "19",
 		"name": "Artesunate + clindamycin",
+		"formulation": "See clindamycin and artesunate",
 		"category": "Other"
 	},
 	{
+		"id": "20",
+		"name": "Artesunate + mefl oquine",
+		"formulation": "Co-blistered, scored tablets of",
+		"category": "Other"
+	},
+	{
+		"id": "21",
+		"name": "Artesunate + sulfadoxine–pyrimethamine",
+		"formulation": "Co-blistered, scored tablets of",
+		"category": "Other"
+	},
+	{
+		"id": "22",
 		"name": "Aspirin (see acetylsalicylic acid Atropine)",
+		"formulation": "",
 		"category": "Other"
 	},
 	{
+		"id": "23",
+		"name": "Atazanavir + ritonavir (ATV/r)",
+		"formulation": "Capsule 300 mg atazanavir;",
+		"category": "Other"
+	},
+	{
+		"id": "24",
 		"name": "Atropine",
+		"formulation": "Injection: 1 mg (sulfate) in 1 ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "25",
 		"name": "Atropine eye drops",
+		"formulation": "Solution (eye drops): 0.5%, 1% (sulfate)",
 		"category": "Other"
 	},
 	{
+		"id": "26",
 		"name": "Azithromycin",
+		"formulation": "Capsule: 250 mg, 500 mg, 600 mg",
 		"category": "Other"
 	},
 	{
+		"id": "27",
 		"name": "Beclometasone inhaler",
+		"formulation": "Inhalation: aerosol 50 mg per dose (dipropionate); 250 mg (dipropionate) per dose",
 		"category": "Other"
 	},
 	{
+		"id": "28",
 		"name": "Benzathine benzylpenicillin",
+		"formulation": "Injection: benzathine benzylpenicillin 1.8 g (equal to",
 		"category": "Other"
 	},
 	{
+		"id": "29",
 		"name": "Benznidazole",
+		"formulation": "Tablet: 100 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Benzyl benzoate",
-		"category": "Other"
-	},
-	{
+		"id": "30",
 		"name": "Benzoyl peroxide",
+		"formulation": "Cream or lotion: 2.5%, 5%",
 		"category": "Other"
 	},
 	{
+		"id": "31",
+		"name": "Benzyl benzoate",
+		"formulation": "Lotion: 25%",
+		"category": "Other"
+	},
+	{
+		"id": "32",
 		"name": "Benzylpenicillin (penicillin G)",
+		"formulation": "Intravenous: 600 mg (1 million IU); 3 g (5 million IU) (sodium or potassium salt)  in vial",
 		"category": "Other"
 	},
 	{
+		"id": "33",
 		"name": "Betametasone",
+		"formulation": "Cream, ointment: 0.1%",
 		"category": "Other"
 	},
 	{
+		"id": "34",
 		"name": "Biperiden",
+		"formulation": "Injection: 5 mg IM/IV Tablet: 2 mg",
 		"category": "Other"
 	},
 	{
+		"id": "35",
 		"name": "Buprenorphine",
+		"formulation": "Tablet given sublingually:",
 		"category": "Other"
 	},
 	{
+		"id": "36",
 		"name": "Calamine lotion",
+		"formulation": "Lotion: calamine  15%, zinc",
 		"category": "Other"
 	},
 	{
+		"id": "37",
 		"name": "Calcium gluconate",
+		"formulation": "",
 		"category": "Other"
 	},
 	{
+		"id": "38",
 		"name": "Carbamazepine",
+		"formulation": "Oral liquid: 100 mg/5 ml",
 		"category": "Other"
 	},
 	{
+		"id": "39",
 		"name": "Cefi xime",
+		"formulation": "Capsule: 400 mg",
 		"category": "Other"
 	},
 	{
+		"id": "40",
 		"name": "Ceftriaxone",
+		"formulation": "Injection: 250 mg, 1 g (as sodium salt) in vial",
 		"category": "Other"
 	},
 	{
+		"id": "41",
 		"name": "Charcoal activated",
+		"formulation": "Powder",
 		"category": "Other"
 	},
 	{
+		"id": "42",
 		"name": "Chloramphenicol",
+		"formulation": "Capsule: 250 mg Injection: 1 g (sodium succinate) vial",
 		"category": "Other"
 	},
 	{
+		"id": "43",
 		"name": "Chloramphenicol eye drops/ointment",
+		"formulation": "Drops: 0.5% Ointment: 1%",
 		"category": "Other"
 	},
 	{
+		"id": "44",
 		"name": "Chlorhexidine",
+		"formulation": "Solution: concentrate for solution, 5%",
 		"category": "Other"
 	},
 	{
+		"id": "45",
 		"name": "Chloroquine",
+		"formulation": "Tablet: chloroquine base",
 		"category": "Other"
 	},
 	{
+		"id": "46",
 		"name": "Chlorphenamine",
+		"formulation": "Tablet: 4 mg",
 		"category": "Other"
 	},
 	{
+		"id": "47",
 		"name": "Chlorpromazine",
+		"formulation": "Tablet: 100 mg",
 		"category": "Other"
 	},
 	{
+		"id": "48",
 		"name": "Ciprofl oxacin",
+		"formulation": "Tablet: 250 mg",
 		"category": "Other"
 	},
 	{
+		"id": "49",
 		"name": "Clarithromycin",
+		"formulation": "Tablet: 250 mg, 500 mg",
 		"category": "Other"
 	},
 	{
+		"id": "50",
 		"name": "Clindamycin",
+		"formulation": "Capsule: 150 mg",
 		"category": "Other"
 	},
 	{
+		"id": "51",
 		"name": "Clindamycin topical",
+		"formulation": "Gel/lotion: clindamycin 1% (as phosphate)",
 		"category": "Other"
 	},
 	{
+		"id": "52",
 		"name": "Clofazimine",
+		"formulation": "Capsule: 50 mg, 100 mg",
 		"category": "Other"
 	},
 	{
+		"id": "53",
 		"name": "Clomipramine",
+		"formulation": "Capsule: 10 mg, 25 mg",
 		"category": "Other"
 	},
 	{
+		"id": "54",
 		"name": "Cloxacillin",
+		"formulation": "Capsule: 500 mg, 1 g",
 		"category": "Other"
 	},
 	{
+		"id": "55",
 		"name": "Coal tar",
+		"formulation": "Solution: 5%.",
 		"category": "Other"
 	},
 	{
+		"id": "56",
 		"name": "Codeine",
+		"formulation": "Tablet: 30 mg (phosphate)",
 		"category": "Other"
 	},
 	{
+		"id": "57",
 		"name": "Cotrimoxazole (TMP-SMZ)",
+		"formulation": "Tablet: sulfamethoxa-zole",
 		"category": "Other"
 	},
 	{
+		"id": "58",
 		"name": "Dapsone",
+		"formulation": "Tablet: 25 mg, 50 mg, 100 mg",
 		"category": "Other"
 	},
 	{
+		"id": "59",
 		"name": "Deferoxamine",
+		"formulation": "Powder for injection: 500 mg",
 		"category": "Other"
 	},
 	{
+		"id": "60",
 		"name": "Dexamethasone",
+		"formulation": "Tablet: 500 mg, 4 mg",
 		"category": "Other"
 	},
 	{
+		"id": "61",
 		"name": "Diazepam",
+		"formulation": "Tablet: 2 mg, 5 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Diethylcarbamazine",
+		"id": "62",
+		"name": "Didanosine (ddI)",
+		"formulation": "Capsule: 400 mg",
 		"category": "Other"
 	},
 	{
+		"id": "63",
+		"name": "Diethylcarbamazine (DEC)",
+		"formulation": "Tablet: 50 mg, 100 mg",
+		"category": "Other"
+	},
+	{
+		"id": "64",
 		"name": "Dihydro-artemisinin + piperaquine",
+		"formulation": "Co-formulated tablet of 40 mg dihydroartemisinin  and 320 mg piperaquine",
 		"category": "Other"
 	},
 	{
+		"id": "65",
 		"name": "Diloxanide",
+		"formulation": "Tablet: 500 mg (furoate)",
 		"category": "Other"
 	},
 	{
+		"id": "66",
 		"name": "Dithranol",
+		"formulation": "Ointment: 0.1-2%",
 		"category": "Other"
 	},
 	{
+		"id": "67",
 		"name": "Dopamine",
+		"formulation": "Infusion, intravenous: 200 mg in",
 		"category": "Other"
 	},
 	{
+		"id": "68",
 		"name": "Doxycycline",
+		"formulation": "Capsule: 100 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Efl ornithine",
+		"id": "69",
+		"name": "Efavirenz (EFV)",
+		"formulation": "Capsule: 100 mg, 200 mg",
 		"category": "Other"
 	},
 	{
+		"id": "70",
+		"name": "Eflornithine",
+		"formulation": "Injection: 200 mg/ml in 100 ml bottle",
+		"category": "Other"
+	},
+	{
+		"id": "71",
+		"name": "Emtricitabine (FTC)",
+		"formulation": "Capsule: 200 mg",
+		"category": "Other"
+	},
+	{
+		"id": "72",
 		"name": "Enalapril",
+		"formulation": "Tablet: 2.5 mg",
 		"category": "Other"
 	},
 	{
+		"id": "73",
 		"name": "Epinephrine (adrenaline)",
+		"formulation": "Injection: 1 mg in 1 ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "74",
 		"name": "Ergometrine",
+		"formulation": "Injection: 200 mcg (0.2 mg) (hydrogen maleate) in 1 ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "75",
 		"name": "Erythromycin",
+		"formulation": "Tablet: 250 mg Capsule: 250 mg Infusion: 500 mg vial",
 		"category": "Other"
 	},
 	{
+		"id": "76",
 		"name": "Erythromycin topical",
+		"formulation": "Gel/lotion: erythromycin 2%",
 		"category": "Other"
 	},
 	{
+		"id": "77",
 		"name": "Ethambutol",
+		"formulation": "Tablets: 100 mg, 400 mg",
 		"category": "Other"
 	},
 	{
+		"id": "78",
 		"name": "Ethanol",
+		"formulation": "Oral liquid:  40–43% alcohol",
 		"category": "Other"
 	},
 	{
+		"id": "79",
 		"name": "Ferrous sulphate",
+		"formulation": "Tablet: equivalent to 60 mg iron",
 		"category": "Other"
 	},
 	{
+		"id": "80",
 		"name": "Fluconazole",
+		"formulation": "Capsule: 50 mg",
 		"category": "Other"
 	},
 	{
+		"id": "81",
 		"name": "Flucytosine (5-FC)",
+		"formulation": "Capsule: 250 mg",
 		"category": "Other"
 	},
 	{
+		"id": "82",
 		"name": "Fluoxetine",
+		"formulation": "Capsule/tablet:  20 mg",
 		"category": "Other"
 	},
 	{
+		"id": "83",
 		"name": "Fluphenazine",
+		"formulation": "Injection: 25 mg, 1 ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "84",
 		"name": "Folic acid",
+		"formulation": "Tablet: 1 mg, 5 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Folinic acid",
+		"id": "85",
+		"name": "Folinic acid (calcium folinate + calcium leucovorin)",
+		"formulation": "Injection, powder for reconstitution, folinic acid (as calcium salt) 3 mg/ml in 10 ml ampoule Tablet: 15 mg",
 		"category": "Other"
 	},
 	{
+		"id": "86",
 		"name": "Furosemide",
+		"formulation": "Tablet: 40 mg",
 		"category": "Other"
 	},
 	{
+		"id": "87",
 		"name": "Gabapentin",
+		"formulation": "Tablet: 300 mg",
 		"category": "Other"
 	},
 	{
+		"id": "88",
 		"name": "Ganciclovir",
+		"formulation": "Injection: 500 mg vial",
 		"category": "Other"
 	},
 	{
+		"id": "89",
 		"name": "Gentamicin",
+		"formulation": "Injection: 10 mg, 40 mg (as sulfate)/ml in 2 ml vial",
 		"category": "Other"
 	},
 	{
+		"id": "90",
 		"name": "Gentamicin eye drops",
+		"formulation": "Solution (eye drops): 0.3%",
 		"category": "Other"
 	},
 	{
+		"id": "91",
 		"name": "Griseofulvin",
+		"formulation": "Tablets: 125 mg, 250 mg",
 		"category": "Other"
 	},
 	{
+		"id": "92",
 		"name": "Haloperidol",
+		"formulation": "Tablet: 2 mg; 5 mg",
 		"category": "Other"
 	},
 	{
+		"id": "93",
 		"name": "Hydralazine IV",
+		"formulation": "Powder for injection: 20 mg",
 		"category": "Other"
 	},
 	{
+		"id": "94",
 		"name": "Hydrochlorthiazide",
+		"formulation": "Tablet: 25 mg",
 		"category": "Other"
 	},
 	{
+		"id": "95",
 		"name": "Hydrocortisone",
+		"formulation": "Injection: 100 mg",
 		"category": "Other"
 	},
 	{
+		"id": "96",
 		"name": "Hydrocortisone cream",
+		"formulation": "Cream: 1%",
 		"category": "Other"
 	},
 	{
-		"name": "Hydroxypropyl methylcellulose eye drops",
+		"id": "97",
+		"name": "Hydroxypropyl methylcellulose  (tears naturale)",
+		"formulation": "Drops: 0.5%",
 		"category": "Other"
 	},
 	{
+		"id": "98",
 		"name": "Ibuprofen",
+		"formulation": "Tablet: 200 mg, 400 mg",
 		"category": "Other"
 	},
 	{
+		"id": "99",
 		"name": "Insulin (soluble)",
+		"formulation": "Injection: 40 IU/ml in 10 ml vial;",
 		"category": "Other"
 	},
 	{
+		"id": "100",
 		"name": "Ipratropium bromide",
+		"formulation": "Inhalation (aerosol): 20 mcg /",
 		"category": "Other"
 	},
 	{
-		"name": "Isoniazid",
+		"id": "101",
+		"name": "Isoniazid  (INH) (H)",
+		"formulation": "Tablet: 300 mg",
 		"category": "Other"
 	},
 	{
+		"id": "102",
 		"name": "Isosorbide dinitrate",
+		"formulation": "Tablet (sublingual): 5 mg",
 		"category": "Other"
 	},
 	{
+		"id": "103",
 		"name": "Itraconazole",
+		"formulation": "Capsule: 100 mg;",
 		"category": "Other"
 	},
 	{
+		"id": "104",
 		"name": "Ivermectin",
+		"formulation": "Tablet: 3 mg, 6 mg",
 		"category": "Other"
 	},
 	{
+		"id": "105",
 		"name": "Ketamine",
+		"formulation": "Injection: 50 mg, 100 mg (as hydrochloride) /ml in 10 ml vial",
 		"category": "Other"
 	},
 	{
+		"id": "106",
 		"name": "Lactulose",
+		"formulation": "Lactulose solution: 3.1–3.7 g/5 ml",
 		"category": "Other"
 	},
 	{
+		"id": "107",
+		"name": "Lamivudine (3TC)",
+		"formulation": "Tablet: 150 mg",
+		"category": "Other"
+	},
+	{
+		"id": "108",
 		"name": "Levonorgestrel",
+		"formulation": "Tablet: .75 mg; 1.5 mg",
 		"category": "Other"
 	},
 	{
+		"id": "109",
 		"name": "Lidocaine",
+		"formulation": "Injection: 1%, 2% in vial",
 		"category": "Other"
 	},
 	{
+		"id": "110",
+		"name": "Lopinavir + ritonavir (LPV/r)",
+		"formulation": "Tablet: Fixed dose combination of (LPV 200 mg + RTV 50 mg)",
+		"category": "Other"
+	},
+	{
+		"id": "111",
 		"name": "Magnesium sulfate",
+		"formulation": "Injection: 500 mg/ml in 2 ml ampoule; 500 mg/ml in 10 ml ampoule (50%)",
 		"category": "Other"
 	},
 	{
+		"id": "112",
 		"name": "Malathion",
+		"formulation": "0.5% in an aqueous basis",
 		"category": "Other"
 	},
 	{
+		"id": "113",
 		"name": "Mebendazole",
+		"formulation": "Tablet: 500 mg, 100 mg",
 		"category": "Other"
 	},
 	{
+		"id": "114",
 		"name": "Meglumine antimoniate",
+		"formulation": "Injection: 30%, equivalent to approximately 8.1% antimony in",
 		"category": "Other"
 	},
 	{
+		"id": "115",
 		"name": "Melarsoprol",
+		"formulation": "Injection: 3.6% solution, 5 ml ampoule (180 mg active compound)",
 		"category": "Other"
 	},
 	{
+		"id": "116",
 		"name": "Methadone",
+		"formulation": "Concentrate for oral liquid: 5 mg/ml, 10 mg/ml (hydrochloride)",
 		"category": "Other"
 	},
 	{
+		"id": "117",
 		"name": "Methylthioninium chloride (methylene blue)",
+		"formulation": "Injection: 10 mg/ml in 10 ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "118",
 		"name": "Metoclopramide",
+		"formulation": "Tablet: 10 mg",
 		"category": "Other"
 	},
 	{
+		"id": "119",
 		"name": "Metronidazole",
+		"formulation": "Tablet: 200 mg, 500 mg Suppositories: 0.5 g, 1 g Gel Injection: 500 mg in",
 		"category": "Other"
 	},
 	{
+		"id": "120",
 		"name": "Miconazole",
+		"formulation": "Cream: 2% (nitrate) Suppository: 200 mg Oral gel",
 		"category": "Other"
 	},
 	{
+		"id": "121",
 		"name": "Midazolam",
+		"formulation": "Injection: (as hydrochloride)",
 		"category": "Other"
 	},
 	{
+		"id": "122",
 		"name": "Miltefosine",
+		"formulation": "Capsule: 10 mg, 50 mg",
 		"category": "Other"
 	},
 	{
+		"id": "123",
 		"name": "Misoprostol",
+		"formulation": "Oral tablet: 200 mcg",
 		"category": "Other"
 	},
 	{
+		"id": "124",
 		"name": "Morphine",
+		"formulation": "Injection: 10 mg (morphine hydrochloride or morphine sulfate) in 1 ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "125",
 		"name": "Mupirocin",
+		"formulation": "Cream (as mupirocin calcium):",
 		"category": "Other"
 	},
 	{
+		"id": "126",
 		"name": "Naloxone",
+		"formulation": "Injection: 400 mcg/ml",
 		"category": "Other"
 	},
 	{
+		"id": "127",
 		"name": "Naltrexone",
+		"formulation": "Tablet: 50 mg",
 		"category": "Other"
 	},
 	{
+		"id": "128",
 		"name": "Neostigmine",
+		"formulation": "Injection: 500 mcg in 1 ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "129",
+		"name": "Nevirapine (NVP)",
+		"formulation": "Tablet: 200 mg",
+		"category": "Other"
+	},
+	{
+		"id": "130",
 		"name": "Nifurtimox",
+		"formulation": "Tablet: 30 mg,120 mg, 250 mg",
 		"category": "Other"
 	},
 	{
+		"id": "131",
 		"name": "Nitrofurantoin",
+		"formulation": "Tablet: 100 mg",
 		"category": "Other"
 	},
 	{
+		"id": "132",
 		"name": "Omeprazole",
+		"formulation": "Tablet: 20 mg",
 		"category": "Other"
 	},
 	{
+		"id": "133",
 		"name": "Ondansetron",
+		"formulation": "Tablet: 4 mg, 8 mg Injection: 2 mg/ml in 2ml ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "134",
 		"name": "Oseltamivir",
+		"formulation": "Capsule: 30 mg, 45 mg, 75 mg",
 		"category": "Other"
 	},
 	{
+		"id": "135",
 		"name": "Oxytocin",
+		"formulation": "Injection: 10 IU in 1 ml ampoule",
 		"category": "Other"
 	},
 	{
-		"name": "Paracetamol",
+		"id": "136",
+		"name": "Paracetamol (acetaminophen)",
+		"formulation": "Tablet: 250 mg, 500 mg Dispersible tablets: 500 mg Suppositories: 250 mg, 500 mg",
 		"category": "Other"
 	},
 	{
+		"id": "137",
 		"name": "Paromomycin",
+		"formulation": "Injection: 750 mg base (11 mg base = 15 mg paramomycin sulfate)",
 		"category": "Other"
 	},
 	{
+		"id": "138",
 		"name": "Pentamidine",
+		"formulation": "Powder for injection: 200 mg,",
 		"category": "Other"
 	},
 	{
+		"id": "139",
 		"name": "Permethrin",
+		"formulation": "Cream: 5%",
 		"category": "Other"
 	},
 	{
+		"id": "140",
 		"name": "Phenobarbital",
+		"formulation": "Injection: 200 mg/ml (phenobarbital sodium) Tablet: 15–100 mg (phenobarbital)",
 		"category": "Other"
 	},
 	{
+		"id": "141",
 		"name": "Phenoxymethyl-penicillin (penicillin V)",
+		"formulation": "Tablet: 500 mg",
 		"category": "Other"
 	},
 	{
+		"id": "142",
 		"name": "Phenytoin",
+		"formulation": "Capsule: 25 mg, 50 mg, 100 mg Injection: 50 mg/ml in, 5 ml vial Tablet: 25 mg, 50 mg, 100 mg Tablet (chewable): 50 mg",
 		"category": "Other"
 	},
 	{
+		"id": "143",
 		"name": "Pilocarpine eye drops",
+		"formulation": "Drops: 2%, 4% (hydrochloride or nitrate)",
 		"category": "Other"
 	},
 	{
+		"id": "144",
 		"name": "Podophyllum resin",
+		"formulation": "Solution: 10–25%",
 		"category": "Other"
 	},
 	{
-		"name": "Polyvidone iodine (povidone–iodine)",
-		"category": "Other"
-	},
-	{
+		"id": "145",
 		"name": "Polyethylene glycol electrolyte solution",
+		"formulation": "Solution",
 		"category": "Other"
 	},
 	{
-		"name": "Potassium permanganate",
+		"id": "146",
+		"name": "Polyvidone iodine (povidone–iodine)",
+		"formulation": "Solution: 10%",
 		"category": "Other"
 	},
 	{
+		"id": "147",
 		"name": "Potassium chloride",
+		"formulation": "Solution: 11.2% in 20 ml ampoule (equiv to K+ 1.5 mmol/ ml, Cl? 1.5 mmol/ml); Oral preparations",
 		"category": "Other"
 	},
 	{
+		"id": "148",
+		"name": "Potassium permanganate",
+		"formulation": "Aqueous solution: 1:10 000 (0.01%)",
+		"category": "Other"
+	},
+	{
+		"id": "149",
 		"name": "Praziquantel",
+		"formulation": "Tablet: 600 mg",
 		"category": "Other"
 	},
 	{
+		"id": "150",
 		"name": "Prednisolone",
+		"formulation": "Tablet; 5 mg, 25 mg",
 		"category": "Other"
 	},
 	{
+		"id": "151",
 		"name": "Primaquine",
+		"formulation": "Tablet: 7.5 mg, 15 mg",
 		"category": "Other"
 	},
 	{
+		"id": "152",
 		"name": "Procaine benzylpenicillin G",
+		"formulation": "Powder for Injection: 1 g vial (1 million IU); 3 g vial (3 million IU)",
 		"category": "Other"
 	},
 	{
+		"id": "153",
 		"name": "Propranolol",
+		"formulation": "Tablet: 20 mg; 40 mg",
 		"category": "Other"
 	},
 	{
+		"id": "154",
 		"name": "Pyridoxine (vitamin B6)",
+		"formulation": "Tablet: 25 mg",
 		"category": "Other"
 	},
 	{
+		"id": "155",
 		"name": "Pyrimethamine",
+		"formulation": "Tablet: 25 mg, 50 mg",
 		"category": "Other"
 	},
 	{
+		"id": "156",
 		"name": "Quinine",
+		"formulation": "Separate blisters with tablets of 150 or 300 mg quinine and tablets of 100 mg doxycycline",
 		"category": "Other"
 	},
 	{
+		"id": "157",
 		"name": "Quinine + clindamycin",
+		"formulation": "Tablet: 300 mg Infusion: 300 mg/",
 		"category": "Other"
 	},
 	{
+		"id": "158",
 		"name": "Rifampicin",
+		"formulation": "Capsule or tablet: 150 mg,",
 		"category": "Other"
 	},
 	{
+		"id": "159",
 		"name": "Rifampicin + isoniazid + pyrazinamide + ethambutol hydrochloride",
+		"formulation": "Tablet: fixed dose combination rifampicin  150 mg, isoniazid",
 		"category": "Other"
 	},
 	{
+		"id": "160",
 		"name": "Salbutamol",
+		"formulation": "Inhalation respirator solution for use in nebulizers: 5 mg (as sulfate)/ml",
 		"category": "Other"
 	},
 	{
+		"id": "161",
 		"name": "Salicylic acid",
+		"formulation": "Solution: 5%",
 		"category": "Other"
 	},
 	{
+		"id": "162",
+		"name": "Saquinavir (SQV)",
+		"formulation": "Capsule: 200 mg",
+		"category": "Other"
+	},
+	{
+		"id": "163",
 		"name": "Selenium sulfi de",
+		"formulation": "Detergent-based suspension",
 		"category": "Other"
 	},
 	{
+		"id": "164",
 		"name": "Senna",
+		"formulation": "Tablet: 7.5 mg (sennosides)",
 		"category": "Other"
 	},
 	{
+		"id": "165",
 		"name": "Sodium bicarbonate",
+		"formulation": "Injection:",
 		"category": "Other"
 	},
 	{
+		"id": "166",
 		"name": "Sodium cromoglycate",
+		"formulation": "Ophthalmic drops: 2%",
 		"category": "Other"
 	},
 	{
+		"id": "167",
 		"name": "Sodium nitrite",
+		"formulation": "Injection: 30 mg/ml in 10 ml ampoule (3% solution)",
 		"category": "Other"
 	},
 	{
+		"id": "168",
 		"name": "Sodium nitroprusside",
+		"formulation": "Powder for infusion: 50 mg in ampoule",
 		"category": "Other"
 	},
 	{
+		"id": "169",
 		"name": "Sodium stibogluconate",
+		"formulation": "Injection: 100 mg/ml vial",
 		"category": "Other"
 	},
 	{
+		"id": "170",
 		"name": "Sodium thiosulfate",
+		"formulation": "Injection: 250 mg/ml in 50 ml ampoule (25% solution) Topical solution: 15%",
 		"category": "Other"
 	},
 	{
+		"id": "171",
 		"name": "Spectinomycin",
+		"formulation": "Powder for injection: 2 g (as hydrochloride) in vial",
 		"category": "Other"
 	},
 	{
+		"id": "172",
 		"name": "Spironolactone",
+		"formulation": "Tablet: 25 mg",
 		"category": "Other"
 	},
 	{
+		"id": "173",
 		"name": "Streptomycin",
+		"formulation": "Injection: 1 g vial",
 		"category": "Other"
 	},
 	{
+		"id": "174",
 		"name": "Sulfadiazine",
+		"formulation": "Tablet: 500 mg",
 		"category": "Other"
 	},
 	{
+		"id": "175",
 		"name": "Sulfadoxine with pyrimethamine (SP)",
+		"formulation": "Tablet: sulfadoxine 500 mg +",
 		"category": "Other"
 	},
 	{
+		"id": "176",
 		"name": "Sulfamethoxazole with trimethoprim (TMP-SMX)(see cotrimoxazole)",
+		"formulation": "",
 		"category": "Other"
 	},
 	{
+		"id": "177",
 		"name": "Suramin",
+		"formulation": "Powder for injection: 1 g in vial",
 		"category": "Other"
 	},
 	{
+		"id": "178",
+		"name": "Tenofovir (TDF)",
+		"formulation": "Tablet: 300 mg",
+		"category": "Other"
+	},
+	{
+		"id": "179",
 		"name": "Terbinafi ne",
+		"formulation": "Cream: 1% Ointment: 1% (hydrochloride)",
 		"category": "Other"
 	},
 	{
+		"id": "180",
 		"name": "Tetracaine (amethocaine) eye drops",
+		"formulation": "Drops: 0.5% (hydrochloride)",
 		"category": "Other"
 	},
 	{
+		"id": "181",
 		"name": "Tetracycline",
+		"formulation": "Tablet: 500 mg",
 		"category": "Other"
 	},
 	{
+		"id": "182",
 		"name": "Tetracycline eye ointment",
+		"formulation": "Ointment: 1% (hydrochloride)",
 		"category": "Other"
 	},
 	{
+		"id": "183",
 		"name": "Thiamine",
+		"formulation": "Tablet: 50 mg Injection (vitamin",
 		"category": "Other"
 	},
 	{
+		"id": "184",
 		"name": "Tranexamic acid (TXA)",
+		"formulation": "Injection, solution: 100 mg/ml",
 		"category": "Other"
 	},
 	{
+		"id": "185",
 		"name": "Tretinoin",
+		"formulation": "Gel: tretinoin 0.01% (tretinoin is the acid form of vitamin A)",
 		"category": "Other"
 	},
 	{
+		"id": "186",
 		"name": "Triclabendazole",
+		"formulation": "Tablet: 250 mg",
 		"category": "Other"
 	},
 	{
+		"id": "187",
 		"name": "Trimethoprim-sulfamethoxazole (see cotrimoxazole)",
+		"formulation": "",
 		"category": "Other"
 	},
 	{
+		"id": "188",
 		"name": "Urea",
+		"formulation": "Cream or ointment: 5%, 10%",
 		"category": "Other"
 	},
 	{
+		"id": "189",
 		"name": "Valproic acid (sodium valproate)",
+		"formulation": "Tablet: 200 mg, 500 mg",
 		"category": "Other"
 	},
 	{
-		"name": "Vitamin B6 (see pyridoxine)",
-		"category": "Other"
-	},
-	{
+		"id": "190",
 		"name": "Vitamin B12 (hydroxocobalamin)",
+		"formulation": "Intramuscular anhydrous hydroxo-cobalamin 1 mg/ml",
 		"category": "Other"
 	},
 	{
+		"id": "191",
+		"name": "Vitamin B6 (see pyridoxine)",
+		"formulation": "",
+		"category": "Other"
+	},
+	{
+		"id": "192",
 		"name": "Vitamin K (phytomenadion)",
+		"formulation": "Injection: 10 mg/ml in 5 ml ampoule Tablet: 10 mg",
+		"category": "Other"
+	},
+	{
+		"id": "193",
+		"name": "Zidovudine (ZDV AZT)",
+		"formulation": "Capsule: 250 mg",
 		"category": "Other"
 	}
 ]
